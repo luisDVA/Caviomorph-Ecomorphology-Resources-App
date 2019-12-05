@@ -45,12 +45,11 @@ query_datasets <- function(focalSp) {
   ))
   matches_sp_hits <- simplify(map(matches_sp, nrow))
   if (sum(matches_sp_hits) == 0) {
-    stop("no matches or incomplete search term")
-  }
+    message("no matches or incomplete search term")
+  } 
   metadataTibsPre <-
     matches_sp %>%
-    map_at(which(matches_sp_hits != 0), remove_empty, "cols") # %>%
-  # map(select,-one_of("id")) #%>%
+    map_at(which(matches_sp_hits != 0), remove_empty, "cols")
   hits_w_data <- which(map_lgl(metadataTibsPre, ~ any(names(.x) == "sp")))
   metadataTibs <- map_at(metadataTibsPre, hits_w_data, ~ (rename(.x, scientific_name = sp))) %>% map(clean_names)
   resultsEnf <- map(metadataTibs, nrow) %>%
