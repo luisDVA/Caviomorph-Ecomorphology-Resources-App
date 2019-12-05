@@ -6,6 +6,7 @@ library(janitor)
 library(shiny)
 library(reactable)
 library(htmltools)
+library(shinythemes)
 library(waiter)
 
 # data preprocess
@@ -117,30 +118,36 @@ query_datasets <- function(focalSp) {
 }
 
 query_datasets("ctenomys pearsoni")
-ui <- fluidPage(
+ui <- fluidPage(theme=shinytheme("paper"),
   use_butler(),
   br(),
   fluidRow(
   column(11,
-       titlePanel("Patterns in research and data-sharing for the study of form and function in caviomorph rodents: 
-                  Interactive Web App")
+       titlePanel("Patterns in research and data-sharing for the study of form and function in caviomorph rodents:  
+                  Interactive Web App", windowTitle="Caviomorph Ecomorphology App")
      ),
    column(1,
               actionButton("github",
                           label = "View Code",
-                          width = "85px",
+                          width = "95px",
                           onclick ="window.open(`https://github.com/howardbaik/nhl-pbp`, '_blank')",
-                          style="color: #fff; background-color: #4c9ed9; border-color: black")
+                          style="color: #fff; background-color: #4c9ed9; border-color: black"),
+          style="position:absolute;right:4em"
    )
   ),
   h3("Luis D. Verde Arregoitia, Pablo Teta & Guillermo D'Elía"),
   br(),
   br(),
-  p("Enter a taxonomic name below to search."),
-  p("Output is split into interactive tables for each data type, which can be sorted by clicking on the column names, or exported separately using the 'Download' button. Entries in the 'study' column provide live links to each publication."),
-  textInput("textstring", "query term", NULL),
+  p("Enter a taxonomic name below to search.",style= "font-size: 22px"),
+  p("Output is split into interactive tables for each data type, which can be sorted by clicking on the column names, or exported separately using the 'Download' button. Entries in the 'study' column provide live links to each publication.",style= "font-size: 22px"),
+  fluidRow(column(4, align="center",offset=4,
+       textInput("textstring", h4("Query Term"), NULL),
+       tags$style("#textstring {font-size:23px;font-style: italic;color: black}")
+        )),
   br(),
-  p("Note: This app uses approximate string matching. The spelling of scientific names and level of resolution may vary between data sources (e.g. searching for \"Kannabateomys\" will produce more matches than searching for \"Kannabateomys amblyonyx\"). Allow for latency as the results update."),
+  p("To see the source code for this application and for offline use, click on the 'View Code' button at the top of this page.",style= "font-size: 20px"),
+  br(),
+  p("Note: This app uses approximate string matching. The spelling of scientific names and level of resolution may vary between data sources (e.g. searching for \"Kannabateomys\" will produce more matches than searching for \"Kannabateomys amblyonyx\"). Allow for latency as the results update.",style= "font-size: 20px"),
   mainPanel(
     # UI output
     uiOutput("dtss")
