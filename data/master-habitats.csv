@@ -1,0 +1,347 @@
+sp,study,Habitat,Ecoregions,Distribution,habitat_binary,habitat,soil_bulk_density_kg_m_3,habitats,distribution,soil,habitat_specificity,habitat_distribution,bulk_soil_density
+Cavia,Alvarez et al 2013,1.2528,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Microcavia,Alvarez et al 2013,0.9163,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Galea,Alvarez et al 2013,1.2528,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pediolagus,Alvarez et al 2013,0.9163,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Dolichotis,Alvarez et al 2013,0.9163,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Hydrochoerus,Alvarez et al 2013,1.2528,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kerodon,Alvarez et al 2013,1.2528,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cuniculus,Alvarez et al 2013,1.9459,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Dasyprocta,Alvarez et al 2013,1.9459,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Chinchilla,Alvarez et al 2013,0.9163,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lagidium,Alvarez et al 2013,0.9163,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lagostomus,Alvarez et al 2013,1.2528,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Abrocoma,Alvarez et al 2013,0.9163,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Aconaemys,Alvarez et al 2013,1.6094,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Spalacopus,Alvarez et al 2013,1.2528,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Octodon,Alvarez et al 2013,1.2528,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Octodontomys,Alvarez et al 2013,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Octomys,Alvarez et al 2013,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pipanacoctomys,Alvarez et al 2013,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tympanoctomys,Alvarez et al 2013,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ctenomys,Alvarez et al 2013,1.2528,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Myocastor,Alvarez et al 2013,1.2528,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Proechimys,Alvarez et al 2013,1.7918,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Thrichomys,Alvarez et al 2013,1.2528,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ctenomys colburni,Borges et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,817.246
+Ctenomys conoveri,Borges et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1402.253
+Ctenomys flamarioni,Borges et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1136.629
+Ctenomys frater,Borges et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1284.703
+Ctenomys fulvus,Borges et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1050.736
+Ctenomys ibicuiensis,Borges et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1299.183
+Ctenomys lami,Borges et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1330.713
+Ctenomys latro,Borges et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1323.690
+Ctenomys leucodon,Borges et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1182.808
+Ctenomys lewisi,Borges et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1285.868
+Ctenomys magellanicus,Borges et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,735.268
+Ctenomys maulinus,Borges et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,810.094
+Ctenomys mendocinus,Borges et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1114.029
+Ctenomys minutus,Borges et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1295.128
+Ctenomys opimus,Borges et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1004.323
+Ctenomys pearsoni,Borges et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1162.099
+Ctenomys porteousi,Borges et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1181.590
+Ctenomys rionegrensis,Borges et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1165.072
+Ctenomys sericeus,Borges et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,636.168
+Ctenomys steinbachi,Borges et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1348.102
+Ctenomys talarum,Borges et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1127.047
+Ctenomys torquatos,Borges et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1183.490
+Ctenomys tuconax,Borges et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1316.181
+Ctenomys tucumanus,Borges et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1324.646
+Ctenomys argentinus,Echeverria et al 2017,NA,NA,NA,NA,NA,1285.25,Dry areas with xeric vegetation at about 600 m.,This species occurs in north-central Argentina in Formosa and Chaco.,Found in regions with sandy soils.,NA,NA,NA
+Ctenomys australis,Echeverria et al 2017,NA,NA,NA,NA,NA,1270.175,"Scrub.
+Sand dune habitats with grasses (Panicum; Poa).","This species occurs in south-eastern Buenos Aires Province, Argentina, in a very narrow distribution along the coast.",Very friable and soft soils.,NA,NA,NA
+Ctenomys boliviensis,Echeverria et al 2017,NA,NA,NA,NA,NA,1409.188,Open savanna areas that have been disturbed by different agricultural and cattle grazing activities (http://www.iucnredlist.org).,"Around the city of Santa Cruz, central Bolivia; Mato Grosso in south-western Brazil; western Paraguay; Formosa Province in Argentina.
+In Bolivia it is found at 400–500 m asl.","Colonies are found in areas with friable, not often flooded soils.",NA,NA,NA
+Ctenomys dorbignyi,Echeverria et al 2017,NA,NA,NA,NA,NA,1245.063,NA,"North eastern Argentina, in Corrientes Province.
+Two small outlier localities included in southern portion of the distribution (Bidau and Lessa, pers. comm.).",NA,NA,NA,NA
+Ctenomys flamarioni,Echeverria et al 2017,NA,NA,NA,NA,NA,1251.688,"Seashore dunes, in an area of high salinity and poor vegetation.",Endemic to Brazil. Occurs along the south-eastern coast.,Sandy soils.,NA,NA,NA
+Ctenomys haigi,Echeverria et al 2017,NA,NA,NA,NA,NA,1001.375,"Arid, steppe grassland punctuated at irregular intervals by wet meadows known as “mallines”.
+Its primary habitat is Patagonian Steppe, and it is also found in low Monte and Valdivian rain forest.","Neuquén, Rio Negro, and Chubut provinces, Argentina; in the Monte de Llanuras and Mesetas ecoregions.",NA,NA,NA,NA
+Ctenomys lami,Echeverria et al 2017,NA,NA,NA,NA,NA,1273.875,Found in the vicinity of sand dunes.,"Endemic to southern Brazil, in the state of Rio Grande do Sul.",Inhabits a region with sandy soil named ‘Coxilha das Lombas' in Brazil.,NA,NA,NA
+Ctenomys latro,Echeverria et al 2017,NA,NA,NA,NA,NA,1269.625,Dry areas with xeric vegetation at about 600 m.,North-western Argentina in Tucumán and Salta Provinces.,Soft and sandy soils.,NA,NA,NA
+Ctenomys leucodon,Echeverria et al 2017,NA,NA,NA,NA,NA,1206.438,"Altiplano open grasslands, in both primary habitat and areas disturbed by grazing.","Altiplano highlands surrounding Lake Titicaca, extending from La Paz, Bolivia, to southern Puno, Peru, between 3,800-4,500 m asl.",Colonies are found in areas with friable soils.,NA,NA,NA
+Ctenomys magellanicus,Echeverria et al 2017,NA,NA,NA,NA,NA,1162.875,"Steppes in Patagonia (Lessa, pers. comm.).",Endemic to extreme southern South America including southern Chile and southern Argentina.,"Sandy, compact soil.",NA,NA,NA
+Ctenomys mendocinus,Echeverria et al 2017,NA,NA,NA,NA,NA,1286.813,Semixeric to xeric habitats with grasses and shrub communities (Larrea sp.).,"Occurs in Argentina on eastern slopes of the Andes from Santa Cruz north to Mendoza provinces, 460-3,400 m asl.",Aridisols. Poorly developed sandy and gravelly soils.,NA,NA,NA
+Ctenomys occultus,Echeverria et al 2017,NA,NA,NA,NA,NA,1267.313,Xeric vegetation.,"This species is known for only a few localities in Tucumán Province (Alberdi, Lamadrid, Monteagudo and Simoca), in the Chaco Seco region, Argentina.",NA,NA,NA,NA
+Ctenomys opimus,Echeverria et al 2017,NA,NA,NA,NA,NA,1335.563,Habitats with sparse vegetation and loose soil.,"Northwest Argentina, south-western Bolivia, southern Peru, northern Chile, 2,500–5,000 m asl on the Andean steppe.","Sandy and gravelly soils, usually on slopes.",NA,NA,NA
+Ctenomys perrensi,Echeverria et al 2017,NA,NA,NA,NA,NA,1219.438,"Savanna, marshes.","North-eastern Argentina, in the central area of western Corrientes Province.",Sandy soils.,NA,NA,NA
+Ctenomys porteousi,Echeverria et al 2017,NA,NA,NA,NA,NA,1215.75,"The original habitat was Pampas grasslands. Due to changes in land use, it is now mostly found at the edges of fields.",Eastern Argentina in Buenos Aires and La Pampa Provinces.,"Fine sandy soils to slightly gravelly sandy soil (Echeverria, unpubl. data).",NA,NA,NA
+Ctenomys pundti,Echeverria et al 2017,NA,NA,NA,NA,NA,1259.963,"Historically, its natural habitat was Pampas.","Southern Córdoba and southern San Luis Provinces, Argentina.",NA,NA,NA,NA
+Ctenomys rionegrensis,Echeverria et al 2017,NA,NA,NA,NA,NA,1442.125,"It is restricted to sand dunes (Lessa, pers. comm.).","South-eastern-most part of Río Negro (Uruguay) between the Río Negro and Río Uruguay. Coast of Río Uruguay in Entre Ríos Province, Argentina.",Sandy soils.,NA,NA,NA
+Ctenomys roigi,Echeverria et al 2017,NA,NA,NA,NA,NA,1347.938,Sand dunes and edges of rivers.,"Argentina, near the Paraná River in Corrientes Province. It can be found over an area smaller than 100 km2 (Bidau, pers. comm.)",Sandy soils.,NA,NA,NA
+Ctenomys scagliai,Echeverria et al 2017,NA,NA,NA,NA,NA,1280.125,NA,"Only known from the vicinity of the type locality Los Cardones, Tucumán Province, Argentina.",NA,NA,NA,NA
+Ctenomys sociabilis,Echeverria et al 2017,NA,NA,NA,NA,NA,1110.938,"Arid, steppe grassland punctuated at irregular intervals by wet meadows known as “mallines”.","Neuquén Province, Argentina, within the area of Reserva Nacional del Parque Nacional Nahuel Huapi.",Black soil but extremely light and easy to work with.,NA,NA,NA
+Ctenomys talarum,Echeverria et al 2017,NA,NA,NA,NA,NA,1280.271,Lives in well vegetated grassy habitats. Inhabits highly variable habitat from sand dunes to inland grasslands.,"Eastern Argentina along the coast in Buenos Aires Province, possibly extending to Santa Fe Province.","Sandy and friable to hard, clayey soils. Some populations inhabit hard soils rich in humus and with low percentage of silt or clay.",NA,NA,NA
+Ctenomys torquatus,Echeverria et al 2017,NA,NA,NA,NA,NA,1297.604,"Scrub, grassland.
+Wide range of habitats (Lessa, pers. comm.). Prefers sandy habitats, and in Uruguay it does not occur in cultivated areas.","From central Uruguay to southern Brazil, in Rio Grande do Sul State.","Sandy, rock-free soils.",NA,NA,NA
+Ctenomys tuconax,Echeverria et al 2017,NA,NA,NA,NA,NA,1331.938,"Scrub, grassland.
+Humid plains to 3000 m.","North-western Argentina, in Tucumán Province.","Well-compacted, humus-rich or loamy soils.",NA,NA,NA
+Ctenomys tucumanus,Echeverria et al 2017,NA,NA,NA,NA,NA,1331.375,Humid areas of plains.,"Central Tucumán Province, Argentina.","Deep humid soils in the piedmont and forest borders of Tucuman city (Contreras, pers. comm.).",NA,NA,NA
+Ctenodactylus gundi,Hautier et al 2011,NA,NA,NA,NA,open areas,NA,NA,NA,NA,NA,NA,NA
+Ctenodactylus vali,Hautier et al 2011,NA,NA,NA,NA,open areas,NA,NA,NA,NA,NA,NA,NA
+Felovia vae,Hautier et al 2011,NA,NA,NA,NA,open areas,NA,NA,NA,NA,NA,NA,NA
+Massoutiera mzabi,Hautier et al 2011,NA,NA,NA,NA,open areas,NA,NA,NA,NA,NA,NA,NA
+Laonastes aenigmamus,Hautier et al 2011,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Abrocoma sp.,Hautier et al 2011,NA,NA,NA,NA,open areas,NA,NA,NA,NA,NA,NA,NA
+Abrocoma schistacea,Hautier et al 2011,NA,NA,NA,NA,open areas,NA,NA,NA,NA,NA,NA,NA
+Abrocoma cinerea,Hautier et al 2011,NA,NA,NA,NA,open areas,NA,NA,NA,NA,NA,NA,NA
+Abrocoma vaccarum,Hautier et al 2011,NA,NA,NA,NA,open areas,NA,NA,NA,NA,NA,NA,NA
+Geocapromys browinii,Hautier et al 2011,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Capromys thoratacus,Hautier et al 2011,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Capromys sp.,Hautier et al 2011,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Cavia porcellus,Hautier et al 2011,NA,NA,NA,NA,open areas,NA,NA,NA,NA,NA,NA,NA
+Cavia aperea,Hautier et al 2011,NA,NA,NA,NA,open areas,NA,NA,NA,NA,NA,NA,NA
+Cavia tschudii,Hautier et al 2011,NA,NA,NA,NA,open areas,NA,NA,NA,NA,NA,NA,NA
+Dolichotis patagonum,Hautier et al 2011,NA,NA,NA,NA,open areas,NA,NA,NA,NA,NA,NA,NA
+Galea spixii,Hautier et al 2011,NA,NA,NA,NA,open areas,NA,NA,NA,NA,NA,NA,NA
+Hydrochoerus hydrochaeris,Hautier et al 2011,NA,NA,NA,NA,open areas,NA,NA,NA,NA,NA,NA,NA
+Kerodon rupestris,Hautier et al 2011,NA,NA,NA,NA,open areas,NA,NA,NA,NA,NA,NA,NA
+Microcavia australis,Hautier et al 2011,NA,NA,NA,NA,open areas,NA,NA,NA,NA,NA,NA,NA
+Chinchilla lanigera,Hautier et al 2011,NA,NA,NA,NA,open areas,NA,NA,NA,NA,NA,NA,NA
+Lagidium peruanum,Hautier et al 2011,NA,NA,NA,NA,open areas,NA,NA,NA,NA,NA,NA,NA
+Lagidium viscacia,Hautier et al 2011,NA,NA,NA,NA,open areas,NA,NA,NA,NA,NA,NA,NA
+Lagostomus maximus,Hautier et al 2011,NA,NA,NA,NA,open areas,NA,NA,NA,NA,NA,NA,NA
+Lagostomus trichodactylus,Hautier et al 2011,NA,NA,NA,NA,open areas,NA,NA,NA,NA,NA,NA,NA
+Ctenomys budini,Hautier et al 2011,NA,NA,NA,NA,burrowers,NA,NA,NA,NA,NA,NA,NA
+Ctenomys coludo,Hautier et al 2011,NA,NA,NA,NA,burrowers,NA,NA,NA,NA,NA,NA,NA
+Ctenomys haigi,Hautier et al 2011,NA,NA,NA,NA,burrowers,NA,NA,NA,NA,NA,NA,NA
+Ctenomys knighti,Hautier et al 2011,NA,NA,NA,NA,burrowers,NA,NA,NA,NA,NA,NA,NA
+Ctenomys opimus,Hautier et al 2011,NA,NA,NA,NA,burrowers,NA,NA,NA,NA,NA,NA,NA
+Cuniculus paca,Hautier et al 2011,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Cuniculus taczanovski,Hautier et al 2011,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Dasyprocta azarae,Hautier et al 2011,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Dasyprocta fuliginosa,Hautier et al 2011,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Dasyprocta leporina,Hautier et al 2011,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Dasyprocta punctata,Hautier et al 2011,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Dasyprocta sp.,Hautier et al 2011,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Dasyprocta variegata,Hautier et al 2011,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Myoprocta acouchy,Hautier et al 2011,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Myoprocta pratti,Hautier et al 2011,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Dinomys branicki,Hautier et al 2011,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Echimys chrysurus,Hautier et al 2011,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Echimys semivillosus,Hautier et al 2011,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Isothrix sinnamariensis,Hautier et al 2011,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Makalata didelphoïdes,Hautier et al 2011,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Mesomys hispidus,Hautier et al 2011,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Myocastor coypus,Hautier et al 2011,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Proechimys cayenensis,Hautier et al 2011,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Proechimys cuvieri,Hautier et al 2011,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Proechimys oris,Hautier et al 2011,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Trichomys aperoides,Hautier et al 2011,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Atherurus africanus,Hautier et al 2011,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Atherurus macrourus,Hautier et al 2011,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Chaetomys subpinosus,Hautier et al 2011,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Coendou bicolor,Hautier et al 2011,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Coendou qouiy,Hautier et al 2011,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Coendou vestitus,Hautier et al 2011,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Erethizon dorsatum,Hautier et al 2011,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Shiggurus mexicanus,Hautier et al 2011,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Hystrix cristata,Hautier et al 2011,NA,NA,NA,NA,open areas,NA,NA,NA,NA,NA,NA,NA
+Hystrix africae,Hautier et al 2011,NA,NA,NA,NA,open areas,NA,NA,NA,NA,NA,NA,NA
+Hystrix indica,Hautier et al 2011,NA,NA,NA,NA,open areas,NA,NA,NA,NA,NA,NA,NA
+Hystrix somaticus,Hautier et al 2011,NA,NA,NA,NA,open areas,NA,NA,NA,NA,NA,NA,NA
+Thecurus crassispinus,Hautier et al 2011,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Thecurus pumilus,Hautier et al 2011,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Thecurus sumatrae,Hautier et al 2011,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Trichys lipura,Hautier et al 2011,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Octodon degus,Hautier et al 2011,NA,NA,NA,NA,open areas,NA,NA,NA,NA,NA,NA,NA
+Octodontomys gliroides,Hautier et al 2011,NA,NA,NA,NA,open areas,NA,NA,NA,NA,NA,NA,NA
+Spalacopus sp.,Hautier et al 2011,NA,NA,NA,NA,burrowers,NA,NA,NA,NA,NA,NA,NA
+Petromys typicus,Hautier et al 2011,NA,NA,NA,NA,open areas,NA,NA,NA,NA,NA,NA,NA
+Thryonomys swinderianus,Hautier et al 2011,NA,NA,NA,NA,open areas,NA,NA,NA,NA,NA,NA,NA
+Ctenodactylus gundi,Hautier et al 2012,NA,NA,NA,NA,open areas,NA,NA,NA,NA,NA,NA,NA
+Ctenodactylus vali,Hautier et al 2012,NA,NA,NA,NA,open areas,NA,NA,NA,NA,NA,NA,NA
+Felovia vae,Hautier et al 2012,NA,NA,NA,NA,open areas,NA,NA,NA,NA,NA,NA,NA
+Massoutiera mzabi,Hautier et al 2012,NA,NA,NA,NA,open areas,NA,NA,NA,NA,NA,NA,NA
+Laonastes aenigmamus,Hautier et al 2012,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Abrocoma sp.,Hautier et al 2012,NA,NA,NA,NA,open areas,NA,NA,NA,NA,NA,NA,NA
+Abrocoma schistacea,Hautier et al 2012,NA,NA,NA,NA,open areas,NA,NA,NA,NA,NA,NA,NA
+Abrocoma cinerea,Hautier et al 2012,NA,NA,NA,NA,open areas,NA,NA,NA,NA,NA,NA,NA
+Abrocoma vaccarum,Hautier et al 2012,NA,NA,NA,NA,open areas,NA,NA,NA,NA,NA,NA,NA
+Capromys thoratacus,Hautier et al 2012,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Capromys sp.,Hautier et al 2012,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Geocapromys browinii,Hautier et al 2012,NA,NA,NA,NA,burrower,NA,NA,NA,NA,NA,NA,NA
+Cavia porcellus,Hautier et al 2012,NA,NA,NA,NA,open areas,NA,NA,NA,NA,NA,NA,NA
+Cavia aperea,Hautier et al 2012,NA,NA,NA,NA,open areas,NA,NA,NA,NA,NA,NA,NA
+Cavia tschudii,Hautier et al 2012,NA,NA,NA,NA,open areas,NA,NA,NA,NA,NA,NA,NA
+Cavia sp.,Hautier et al 2012,NA,NA,NA,NA,open areas,NA,NA,NA,NA,NA,NA,NA
+Dolichotis patagonum,Hautier et al 2012,NA,NA,NA,NA,open areas,NA,NA,NA,NA,NA,NA,NA
+Galea spixii,Hautier et al 2012,NA,NA,NA,NA,open areas,NA,NA,NA,NA,NA,NA,NA
+Hydrochoerus hydrochaeris,Hautier et al 2012,NA,NA,NA,NA,open areas,NA,NA,NA,NA,NA,NA,NA
+Microcavia australis,Hautier et al 2012,NA,NA,NA,NA,open areas,NA,NA,NA,NA,NA,NA,NA
+Kerodon rupestris,Hautier et al 2012,NA,NA,NA,NA,open areas,NA,NA,NA,NA,NA,NA,NA
+Lagidium peruanum,Hautier et al 2012,NA,NA,NA,NA,open areas,NA,NA,NA,NA,NA,NA,NA
+Lagidium viscacia,Hautier et al 2012,NA,NA,NA,NA,open areas,NA,NA,NA,NA,NA,NA,NA
+Chinchilla lanigera,Hautier et al 2012,NA,NA,NA,NA,open areas,NA,NA,NA,NA,NA,NA,NA
+Lagostomus maximus,Hautier et al 2012,NA,NA,NA,NA,open areas,NA,NA,NA,NA,NA,NA,NA
+Lagostomus trichodactylus,Hautier et al 2012,NA,NA,NA,NA,open areas,NA,NA,NA,NA,NA,NA,NA
+Ctenomys budini,Hautier et al 2012,NA,NA,NA,NA,burrowers,NA,NA,NA,NA,NA,NA,NA
+Ctenomys coludo,Hautier et al 2012,NA,NA,NA,NA,burrowers,NA,NA,NA,NA,NA,NA,NA
+Ctenomys haigi,Hautier et al 2012,NA,NA,NA,NA,burrowers,NA,NA,NA,NA,NA,NA,NA
+Ctenomys knighti,Hautier et al 2012,NA,NA,NA,NA,burrowers,NA,NA,NA,NA,NA,NA,NA
+Ctenomys opimus,Hautier et al 2012,NA,NA,NA,NA,burrowers,NA,NA,NA,NA,NA,NA,NA
+Cuniculus paca,Hautier et al 2012,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Cuniculus taczanovski,Hautier et al 2012,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Dasyprocta azarae,Hautier et al 2012,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Dasyprocta fuliginosa,Hautier et al 2012,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Dasyprocta leporina,Hautier et al 2012,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Dasyprocta punctata,Hautier et al 2012,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Dasyprocta sp.,Hautier et al 2012,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Dasyprocta variegata,Hautier et al 2012,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Myoprocta acouchy,Hautier et al 2012,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Myoprocta pratti,Hautier et al 2012,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Dinomys branicki,Hautier et al 2012,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Chaetomys subspinosus,Hautier et al 2012,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Echimys chrysurus,Hautier et al 2012,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Echimys semivillosus,Hautier et al 2012,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Isothrix sinnamariensis,Hautier et al 2012,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Makalata didelphoides,Hautier et al 2012,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Mesomys hispidus,Hautier et al 2012,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Proechimys cayenensis,Hautier et al 2012,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Proechimys cuvieri,Hautier et al 2012,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Proechimys oris,Hautier et al 2012,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Trichomys aperoides,Hautier et al 2012,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Myocastor coypus,Hautier et al 2012,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Chaetomys subpinosus,Hautier et al 2012,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Coendou bicolor,Hautier et al 2012,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Coendou qouiy,Hautier et al 2012,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Coendou vestitus,Hautier et al 2012,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Erethizon dorsatum,Hautier et al 2012,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Shiggurus mexicanus,Hautier et al 2012,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Hystrix cristata,Hautier et al 2012,NA,NA,NA,NA,ubiquist,NA,NA,NA,NA,NA,NA,NA
+Hystrix africae,Hautier et al 2012,NA,NA,NA,NA,ubiquist,NA,NA,NA,NA,NA,NA,NA
+Hystrix indica,Hautier et al 2012,NA,NA,NA,NA,ubiquist,NA,NA,NA,NA,NA,NA,NA
+Hystrix somaticus,Hautier et al 2012,NA,NA,NA,NA,ubiquist,NA,NA,NA,NA,NA,NA,NA
+Hystrix sp.,Hautier et al 2012,NA,NA,NA,NA,ubiquist,NA,NA,NA,NA,NA,NA,NA
+Atherurus africanus,Hautier et al 2012,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Atherurus macrourus,Hautier et al 2012,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Thecurus crassispinus,Hautier et al 2012,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Thecurus pumilus,Hautier et al 2012,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Thecurus sumatrae,Hautier et al 2012,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Trichys lipura,Hautier et al 2012,NA,NA,NA,NA,woody areas,NA,NA,NA,NA,NA,NA,NA
+Octodon degus,Hautier et al 2012,NA,NA,NA,NA,open areas,NA,NA,NA,NA,NA,NA,NA
+Octodontomys gliroides,Hautier et al 2012,NA,NA,NA,NA,open areas,NA,NA,NA,NA,NA,NA,NA
+Spalacopus cyaneus,Hautier et al 2012,NA,NA,NA,NA,burrowers,NA,NA,NA,NA,NA,NA,NA
+Spalacopus sp.,Hautier et al 2012,NA,NA,NA,NA,burrowers,NA,NA,NA,NA,NA,NA,NA
+Petromus typicus,Hautier et al 2012,NA,NA,NA,NA,open areas,NA,NA,NA,NA,NA,NA,NA
+Thryonomys swinderianus,Hautier et al 2012,NA,NA,NA,NA,open areas,NA,NA,NA,NA,NA,NA,NA
+Ctenomys australis,Mora et al 2003,Sand dune habitats with grasses (Panicum; Poa). Very friable soils,NA,SE Buenos Aires Province,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ctenomys emilianus,Mora et al 2003,Sand dune habitats at about 800 m. Friable soils,NA,"Neuquén Province, Argentina",NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ctenomys frater,Mora et al 2003,"Grassy meadows between 2000 and 4500 m. Deep, humousand presumably compact soils",NA,"From SW Bolivia into Jujuy and Salta Province, Argentina",NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ctenomys latro,Mora et al 2003,Dry areas with xeric vegetation at about 600 m. Soft and sandy soils,NA,"Tucumán and Salta Province, Argentina",NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ctenomys mendocinus,Mora et al 2003,Semixeric to xeric habitats with grasses and shrub communities (Larrea sp.). Predominantly poorly developed sandy and gravelly soils,NA,A broad range from Santa Cruz north to Mendoza Province,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ctenomys opimus,Mora et al 2003,"Habitats with sparse vegetation and loose soil, between 2500 and 5000 m; sandy and decomposed trachyte soil on ridge",NA,From southern Perú to northern Chile and Argentina,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ctenomys pearsoni,Mora et al 2003,Predominantly sandy soils with variable clay-loam fraction,NA,"Soriano, San José, and Colonia departments, Uruguay",NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ctenomys talarum,Mora et al 2003,"Well vegetated, grassy habitats. More or less sandy and friable to hard, clayey soils",NA,"Along the coast of Buenos Aires Province, Argentina",NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ctenomys tuconax,Mora et al 2003,"Humid plains to 3000m in rather compact, loamy and humous soils",NA,Tucumán Province,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ctenomys tucumanus,Mora et al 2003,Humid areas of the plains of central Tucumán,NA,Tucumán Province,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tympanoctomys barrerae,Ojeda et al 1999,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salt/dune,NA,NA
+Dipodomys microps,Ojeda et al 1999,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salt/dune ,NA,NA
+Dipodomys merriami,Ojeda et al 1999,NA,NA,NA,NA,NA,NA,NA,NA,NA,No,NA,NA
+Psamommys obesus,Ojeda et al 1999,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salt/dune,NA,NA
+Rhombomys opimus,Ojeda et al 1999,NA,NA,NA,NA,NA,NA,NA,NA,NA,No,NA,NA
+Octomys mimax,Ojeda et al 1999,NA,NA,NA,NA,NA,NA,NA,NA,NA,No,NA,NA
+Octodontomys gliroides,Ojeda et al 1999,NA,NA,NA,NA,NA,NA,NA,NA,NA,No,NA,NA
+Ctenomys mendocinus,Ojeda et al 1999,NA,NA,NA,NA,NA,NA,NA,NA,NA,No,NA,NA
+Microcavia australis,Ojeda et al 1999,NA,NA,NA,NA,NA,NA,NA,NA,NA,No,NA,NA
+Octomys mimax,Ojeda et al 2012,"Dry Chaco, High Monte",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pipanacoctomys aureus,Ojeda et al 2012,High Monte,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tympanoctomys barrerae,Ojeda et al 2012,"High Monte, Low Monte, Patagonian Steppe",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Octodontomys gliroides,Ojeda et al 2012,"High Monte, Central Andean Puna, Central Andean Dry Puna",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Octodon degus,Ojeda et al 2012,"Valdivian Temperate Forest, Chilean Scrublands",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Octodon lunatus,Ojeda et al 2012,"Valdivian Temperate Forest, Chilean Scrublands",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Octodon bridgesi,Ojeda et al 2012,Valdivian Temperate Forest,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Aconaemys sagei,Ojeda et al 2012,Valdivian Temperate Forest,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Aconaemys fuscus,Ojeda et al 2012,"Valdivian Temperate Forest, Chilean Scrublands",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Aconaemys porteri,Ojeda et al 2012,Valdivian Temperate Forest,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Spalacopus cyanus,Ojeda et al 2012,"Valdivian Temperate Forest, Chilean Scrublands",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Chaetomys,Ojeda et al 2016,NA,Atlantic Rainforest,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Coendou,Ojeda et al 2016,NA,"Atlantic Rainforest, Amazonia",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Echinoprocta,Ojeda et al 2016,NA,Amazonia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Erethizon,Ojeda et al 2016,NA,"Tundra grasslands, forests, desert scrublands",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Sphiggurus,Ojeda et al 2016,NA,Atlantic Rainforest,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Chinchilla,Ojeda et al 2016,NA,Andes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lagidium,Ojeda et al 2016,NA,Patagonia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lagostomus,Ojeda et al 2016,NA,"Pampas, Monte Chaco",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Dinomys,Ojeda et al 2016,NA,Amazonia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cavia,Ojeda et al 2016,NA,"Amazonia, Chaco, Cerrado",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Galea,Ojeda et al 2016,NA,"Amazonia, Chaco, Caatinga, Cerrado, Patagonia, Pampas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Microcavia,Ojeda et al 2016,NA,"Monte, Chaco, Patagonia",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Dolichotis,Ojeda et al 2016,NA,"Monte, Chaco, Patagonia",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Hydrochoerus,Ojeda et al 2016,NA,"Amazonia, Caatinga, Cerrado, Atlantic Rainforest, Chaco",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kerodon,Ojeda et al 2016,NA,"Caatinga, Cerrado",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Dasyprocta,Ojeda et al 2016,NA,"Amazonia, Atlantic Rainforest Pantanal",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Myoprocta,Ojeda et al 2016,NA,Amazonia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cuniculus,Ojeda et al 2016,NA,"Amazonia, Chaco, Cerrado",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ctenomys,Ojeda et al 2016,NA,"Cerrado, Caatinga Chaco, Pampas, Patagonia, Monte, Amazonia (Yungas)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Aconaemys,Ojeda et al 2016,NA,Andean-Valdivian Forest,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Octodon,Ojeda et al 2016,NA,Chilean scrublands,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Octodontomys,Ojeda et al 2016,NA,Monte,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Octomys,Ojeda et al 2016,NA,Monte,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pipanacoctomys,Ojeda et al 2016,NA,Monte,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Salinoctomys,Ojeda et al 2016,NA,"Monte, Chaco",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Spalacopus,Ojeda et al 2016,NA,"Matorral, Andean",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tympanoctomys,Ojeda et al 2016,NA,"Monte, Patagonia",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Abrocoma,Ojeda et al 2016,NA,Monte-Chilean scrublands,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cuscomys,Ojeda et al 2016,NA,Andes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Dactylomys,Ojeda et al 2016,NA,Amazonia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kannabateomys,Ojeda et al 2016,NA,Atlantic Rainforest,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Olallamys,Ojeda et al 2016,NA,Amazonia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Callistomys,Ojeda et al 2016,NA,Atlantic forest,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Diplomys,Ojeda et al 2016,NA,Amazonia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Echimys,Ojeda et al 2016,NA,"Amazonia, Atlantic Rainforest",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Isothrix,Ojeda et al 2016,NA,Amazonia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Makalata,Ojeda et al 2016,NA,Amazonia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Phyllomys,Ojeda et al 2016,NA,Atlantic Rainforest,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Carterodon,Ojeda et al 2016,NA,Cerrado,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Clyomys,Ojeda et al 2016,NA,"Cerrado, Pantanal",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Euryzygomatomys,Ojeda et al 2016,NA,"Cerrado, Atlantic forest",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Hoplomys,Ojeda et al 2016,NA,Amazonia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lonchothrix,Ojeda et al 2016,NA,Amazonia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mesomys,Ojeda et al 2016,NA,Amazonia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Proechimys,Ojeda et al 2016,NA,Amazonia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Thrichomys,Ojeda et al 2016,NA,"Caatinga, Cerrado",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Trinomys,Ojeda et al 2016,NA,"Caatinga, Cerrado, Atlantic forest",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Myocastor,Ojeda et al 2016,NA,"Chaco, Pampas, Patagonia, Monte, Valdivian Forest, Chilean Scrubland, Amazonia",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Capromys,Ojeda et al 2016,NA,Antilles,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Geocapromys,Ojeda et al 2016,NA,Antilles,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mesocapromys,Ojeda et al 2016,NA,Antilles,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mysatele,Ojeda et al 2016,NA,Antilles,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Plagiodontia,Ojeda et al 2016,NA,Antilles,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cavia,Rocha Barbosa et al 2015,NA,NA,NA,NA,"Scrub grasslands, savannas, wetlands, primary and secondary forests",NA,NA,NA,NA,NA,NA,NA
+Galea,Rocha Barbosa et al 2015,NA,NA,NA,NA,"Open areas, savanna and dry areas,primary and disturbed habitats",NA,NA,NA,NA,NA,NA,NA
+Microcavia,Rocha Barbosa et al 2015,NA,NA,NA,NA,"Grasslands, arid and semiarid lowlands and valleys, riparian habitats, forested areas, or sandy forested flats",NA,NA,NA,NA,NA,NA,NA
+Dolichotis,Rocha Barbosa et al 2015,NA,NA,NA,NA,"lowland habitats, including forest and creosote bush flats, arid Chaco, and dry, low, flat thorn scrub",NA,NA,NA,NA,NA,NA,NA
+Hydrochaeris,Rocha Barbosa et al 2015,NA,NA,NA,NA,"Lowland rainforest, dry forests, shrub, or grassland near water",NA,NA,NA,NA,NA,NA,NA
+Kerodon,Rocha Barbosa et al 2015,NA,NA,NA,NA,Dry rock areas with low scrub vegetation where they shelter in crevices,NA,NA,NA,NA,NA,NA,NA
+Dasyprocta,Rocha Barbosa et al 2015,NA,NA,NA,NA,"Mature, disturbed, secondary evergreen, deciduous, gallery forests, montane forests, gardens and plantations",NA,NA,NA,NA,NA,NA,NA
+Myoprocta,Rocha Barbosa et al 2015,NA,NA,NA,NA,Lowland forests,NA,NA,NA,NA,NA,NA,NA
+Cuniculus,Rocha Barbosa et al 2015,NA,NA,NA,NA,"Mature, disturbed, secondary evergreen, gallery forests, montane forests, gardens and plantations",NA,NA,NA,NA,NA,NA,NA
+Cavia,Rowe and Honeycutt 2002,NA,NA,NA,generalist,grassland,NA,NA,NA,NA,NA,NA,NA
+Galea,Rowe and Honeycutt 2002,NA,NA,NA,generalist,grassland/arid,NA,NA,NA,NA,NA,NA,NA
+Kerodon,Rowe and Honeycutt 2002,NA,NA,NA,specialist,rock outcrops,NA,NA,NA,NA,NA,NA,NA
+Microcavia,Rowe and Honeycutt 2002,NA,NA,NA,generalist,grassland/arid,NA,NA,NA,NA,NA,NA,NA
+Dolichotis,Rowe and Honeycutt 2002,NA,NA,NA,specialist,arid savanna,NA,NA,NA,NA,NA,NA,NA
+Pediolagus,Rowe and Honeycutt 2002,NA,NA,NA,specialist,arid savanna,NA,NA,NA,NA,NA,NA,NA
+Agouti,Rowe and Honeycutt 2002,NA,NA,NA,NA,tropical forest,NA,NA,NA,NA,NA,NA,NA
+Stictomys,Rowe and Honeycutt 2002,NA,NA,NA,NA,montane forest,NA,NA,NA,NA,NA,NA,NA
+Dasyprocta,Rowe and Honeycutt 2002,NA,NA,NA,NA,tropical forest,NA,NA,NA,NA,NA,NA,NA
+Myoprocta,Rowe and Honeycutt 2002,NA,NA,NA,NA,tropical forest,NA,NA,NA,NA,NA,NA,NA
+Hydrochaeris,Rowe and Honeycutt 2002,NA,NA,NA,specialist,semiaquatic,NA,NA,NA,NA,NA,NA,NA
+Trinomys albispinus,Tavares et al 2016b,NA,NA,NA,NA,Caatinga dry forest-dwelling,NA,NA,NA,NA,NA,NA,NA
+Trinomys dimidiatus,Tavares et al 2016b,NA,NA,NA,NA,Atlantic Rainforest-dwelling,NA,NA,NA,NA,NA,NA,NA
+Trinomys eliasi,Tavares et al 2016b,NA,NA,NA,NA,Restinga-dwelling population,NA,NA,NA,NA,NA,NA,NA
+Trinomys eliasi,Tavares et al 2016b,NA,NA,NA,NA,Atlantic Rainforest-dweeling populations,NA,NA,NA,NA,NA,NA,NA
+Trinomys gratiosus,Tavares et al 2016b,NA,NA,NA,NA,Atlantic Rainforest-dwelling,NA,NA,NA,NA,NA,NA,NA
+Trinomys iheringi,Tavares et al 2016b,NA,NA,NA,NA,Atlantic Rainforest-dwelling,NA,NA,NA,NA,NA,NA,NA
+Trinomys paratus,Tavares et al 2016b,NA,NA,NA,NA,Atlantic Rainforest-dwelling,NA,NA,NA,NA,NA,NA,NA
+Trinomys setosus,Tavares et al 2016b,NA,NA,NA,NA,Atlantic Rainforest-dwelling,NA,NA,NA,NA,NA,NA,NA
+Trinomys yonenagae,Tavares et al 2016b,NA,NA,NA,NA,Caatinga sandy dunes-dwelling,NA,NA,NA,NA,NA,NA,NA
+Carterodon sulcidens,Tavares et al 2019a,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Cerrado and Caatinga,NA
+Clyomys laticeps,Tavares et al 2019a,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Cerrado and Caatinga,NA
+Euryzygomatomys spinosus,Tavares et al 2019a,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Atlantic Forest,NA
+Trinomys albispinus,Tavares et al 2019a,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Cerrado and Caatinga,NA
+Trinomys dimidiatus,Tavares et al 2019a,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Atlantic Forest,NA
+Trinomys eliasi,Tavares et al 2019a,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Atlantic Forest,NA
+Trinomys gratiosus,Tavares et al 2019a,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Atlantic Forest,NA
+Trinomys yonenagae,Tavares et al 2019a,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Cerrado and Caatinga,NA

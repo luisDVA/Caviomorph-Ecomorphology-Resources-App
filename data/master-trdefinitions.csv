@@ -1,0 +1,769 @@
+name,abbreviation,definition,study,numbers,sk_structure,l_mtype,varname,var_abbreviation,dental_type,units,view_structure,structure,morph_char,type,landmark,description,aim,character,interpretation,morphofunctional_significance,trait,notes,formula,view,struture,region_of_the_skull,measurement,number,state,value
+masseter medialis pars infraorbitalis,m.m.p.io.,line of action of masseteric muscles (degrees),Alvarez and Perez 2019,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+masseter medialis pars zygomaticomandibularis,m.m.p.z.,line of action of masseteric muscles (degrees),Alvarez and Perez 2019,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+masseter lateralis,m.l.,line of action of masseteric muscles (degrees),Alvarez and Perez 2019,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+masseter superficialis,m.s.,line of action of masseteric muscles (degrees),Alvarez and Perez 2019,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+tooth scar orientation,NA,orientation of the of teeth striae with respect to the major axis of each tooth (degrees),Alvarez and Perez 2019,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Antero-dorsal border of incisor alveolus,Alvarez et al 2011a,1,Mandible,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Extreme of diastema invagination,Alvarez et al 2011a,2,Mandible,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Anterior end of mandibular toothrow,Alvarez et al 2011a,3,Mandible,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Anterior end of base of coronoid process,Alvarez et al 2011a,4,Mandible,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Tip of coronoid process,Alvarez et al 2011a,5,Mandible,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Maximum curvature of incisura mandibulae,Alvarez et al 2011a,6,Mandible,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Anterior edge of condylar process,Alvarez et al 2011a,7,Mandible,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Posterior-most edge of postcondyloid process,Alvarez et al 2011a,8,Mandible,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Maximum curvature of curve between postcondyloid process and angular process,Alvarez et al 2011a,9,Mandible,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Tip of angular process,Alvarez et al 2011a,10,Mandible,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Posterior-most point on ventral border of mandibular corpus,Alvarez et al 2011a,11,Mandible,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Posterior extremity of mandibular symphysis,Alvarez et al 2011a,12,Mandible,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Antero-ventral border of incisor alveolus,Alvarez et al 2011a,13,Mandible,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Antero-dorsal border of incisor alveolus,Alvarez et al 2011b,1,Mandible,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,extreme of diastema invagination,Alvarez et al 2011b,2,Mandible,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,anterior end of maxillary toothrow,Alvarez et al 2011b,3,Mandible,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,anterior end of base of coronoid process,Alvarez et al 2011b,4,Mandible,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,dorsalmost point on ventral border of mandibular corpus,Alvarez et al 2011b,5,Mandible,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,posterior extremity of mandibular symphysis,Alvarez et al 2011b,6,Mandible,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,antero-ventral border of incisor alveolus,Alvarez et al 2011b,7,Mandible,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Anterior lower end of premaxillary bone (on sagittal plane),Alvarez et al 2013,1,Cranium,3D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Anterior upper end of premaxillary bone (on sagittal plane),Alvarez et al 2013,2,Cranium,3D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Anterior end of suture between nasal and premaxillary bones,Alvarez et al 2013,3,Cranium,3D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Anterior end of the nasal bone,Alvarez et al 2013,4,Cranium,3D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Posterior end of nasal bones suture,Alvarez et al 2013,5,Cranium,3D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,"Meeting point of sutures among premaxillary, nasal, and frontal bones",Alvarez et al 2013,6,Cranium,3D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,"Meeting point of sutures among premaxillary, maxillary, and frontal bones",Alvarez et al 2013,7,Cranium,3D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Anterior end of the masseteric fossa of rostrum,Alvarez et al 2013,8,Cranium,3D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Junction between maxillar-premaxillar suture and lateral margin of incisive foramen,Alvarez et al 2013,9,Cranium,3D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Antero-ventral border of incisor alveolus,Alvarez et al 2013,10,Cranium,3D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most anterior point of the area of origin of the masseter superficialis muscle,Alvarez et al 2013,11,Cranium,3D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Extremities of incisive foramen,Alvarez et al 2013,12 and 13,Cranium,3D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Extremities of tooth row,Alvarez et al 2013,14 and 15,Cranium,3D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Junction between maxillary and palatine bones in the sagittal plane,Alvarez et al 2013,16,Cranium,3D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Posterior tip of the zygomatic arch,Alvarez et al 2013,17,Cranium,3D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Postero-dorsal end of cranial glenoid fossa,Alvarez et al 2013,18,Cranium,3D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Ventral meeting between maxillary and jugal bones,Alvarez et al 2013,19,Cranium,3D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Dorsal meeting between jugal and squamosal bones,Alvarez et al 2013,20,Cranium,3D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Meeting between maxillary and lacrimal bones on the anterior margin of orbit,Alvarez et al 2013,21,Cranium,3D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most anterior end of jugal bone on the lateral aspect of zygomatic arch,Alvarez et al 2013,22,Cranium,3D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Meeting between lacrimal and frontal bones on the antero-dorsal margin of orbit,Alvarez et al 2013,23,Cranium,3D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,"Meeting point of sutures among maxillary, lacrimal, and frontal bones",Alvarez et al 2013,24,Cranium,3D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Junction between squamosal-alisphenoid bones suture and anterior margin of glenoid fossa,Alvarez et al 2013,25,Cranium,3D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Anterior end of auditory bulla,Alvarez et al 2013,26,Cranium,3D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Posterior end of auditory bulla,Alvarez et al 2013,27,Cranium,3D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most medial point of auditory bulla,Alvarez et al 2013,28,Cranium,3D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most lateral point of auditory bulla,Alvarez et al 2013,29,Cranium,3D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most ventral point of auditory bulla,Alvarez et al 2013,30,Cranium,3D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Tip of paraoccipital process,Alvarez et al 2013,31,Cranium,3D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most dorsal point of the external auditory meatus,Alvarez et al 2013,32,Cranium,3D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most dorsal point of the foramen magnum,Alvarez et al 2013,33,Cranium,3D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Dorso-medial tip of occipital condyle,Alvarez et al 2013,34,Cranium,3D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most ventral point of the foramen magnum,Alvarez et al 2013,35,Cranium,3D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Middle point of basisphenoid-presphenoid suture,Alvarez et al 2013,36,Cranium,3D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most lateral meeting point between basisphenoid and presphenoid bones,Alvarez et al 2013,37,Cranium,3D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,"Meeting point of squamosal, occipital, and tympanic bones",Alvarez et al 2013,38,Cranium,3D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,"Meeting point of squamosal, parietal, and occipital bones",Alvarez et al 2013,39,Cranium,3D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,"Meeting point of squamosal, frontal, and parietal bones",Alvarez et al 2013,40,Cranium,3D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Meeting between squamosal-frontal suture and the postero-dorsal margin of orbit,Alvarez et al 2013,41,Cranium,3D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Meeting point between frontal bones suture and anterior margin of parietal bone,Alvarez et al 2013,42,Cranium,3D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most posterior point of skull,Alvarez et al 2013,43,Cranium,3D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Becerra et al 2012,NA,NA,NA,Body mass,BM,NA,g,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Becerra et al 2012,NA,NA,NA,Cross-sectional area,CA,Upper incisors,mm2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Becerra et al 2012,NA,NA,NA,second moment of inertia,I,Upper incisors,mm4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Becerra et al 2012,NA,NA,NA,polar moment of inertia,J,Upper incisors,mm4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Becerra et al 2012,NA,NA,NA,root length,IRL,Upper incisors,mm,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Becerra et al 2012,NA,NA,NA,and procumbency angle,PA,Upper incisors,radians,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Becerra et al 2012,NA,NA,NA,Occlusal surface area,OSA,Upper molars,mm2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Becerra et al 2012,NA,NA,NA,enamelband length,EL,Upper molars,mm,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Becerra et al 2012,NA,NA,NA,and enamel index,EI,Upper molars,EI,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,anterior tip of the suture between premaxillas,Borges et al 2017,1,NA,NA,NA,NA,NA,NA,Dorsal view of the cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,anterolateral extremity of incisor alveolus,Borges et al 2017,2-3,NA,NA,NA,NA,NA,NA,Dorsal view of the cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,anterior extremity of suture between nasals,Borges et al 2017,4,NA,NA,NA,NA,NA,NA,Dorsal view of the cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,anteriormost point of suture between nasal and premaxilla,Borges et al 2017,5-6,NA,NA,NA,NA,NA,NA,Dorsal view of the cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,anteriormost point of root of zygomatic arch,Borges et al 2017,7-8,NA,NA,NA,NA,NA,NA,Dorsal view of the cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,suture between nasals and frontals,Borges et al 2017,9,NA,NA,NA,NA,NA,NA,Dorsal view of the cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,anterolateral extremity of lacrimal bone,Borges et al 2017,10-11,NA,NA,NA,NA,NA,NA,Dorsal view of the cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,narrowest point between frontals,Borges et al 2017,12-13,NA,NA,NA,NA,NA,NA,Dorsal view of the cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,tip of extremity of superior jugal process,Borges et al 2017,14-15,NA,NA,NA,NA,NA,NA,Dorsal view of the cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,anterolateral extremity of suture between frontal and squamosal,Borges et al 2017,16-17,NA,NA,NA,NA,NA,NA,Dorsal view of the cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,lateral extremity of suture between jugal and squamosal,Borges et al 2017,18-19,NA,NA,NA,NA,NA,NA,Dorsal view of the cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,tip of posterior process of jugal,Borges et al 2017,20-21,NA,NA,NA,NA,NA,NA,Dorsal view of the cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,suture between frontals and parietals,Borges et al 2017,22,NA,NA,NA,NA,NA,NA,Dorsal view of the cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,anterolateral extremity of suture between parietal and squamosal,Borges et al 2017,23-24,NA,NA,NA,NA,NA,NA,Dorsal view of the cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,anterior tip of external auditory meatus,Borges et al 2017,25-26,NA,NA,NA,NA,NA,NA,Dorsal view of the cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,point of maximum curvature on mastoid apophysis,Borges et al 2017,27-28,NA,NA,NA,NA,NA,NA,Dorsal view of the cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,posteriormost point of occipital along midsagittal plane.,Borges et al 2017,29,NA,NA,NA,NA,NA,NA,Dorsal view of the cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,anterior tip of suture between premaxillas,Borges et al 2017,1,NA,NA,NA,NA,NA,NA,Ventral view of the cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,anterolateral extremity of incisor alveolus,Borges et al 2017,2-3,NA,NA,NA,NA,NA,NA,Ventral view of the cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,lateral edge of incisive foramen in suture between premaxilla and maxilla,Borges et al 2017,4-5,NA,NA,NA,NA,NA,NA,Ventral view of the cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,anteriormost point of root of zygomatic arch,Borges et al 2017,6-7,NA,NA,NA,NA,NA,NA,Ventral view of the cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,anteriormost point of orbit in inferior zygomatic root,Borges et al 2017,8-9,NA,NA,NA,NA,NA,NA,Ventral view of the cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,anteriormost point of premolar alveolus,Borges et al 2017,10-11,NA,NA,NA,NA,NA,NA,Ventral view of the cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,posterior extremity of III molar alveolus,Borges et al 2017,12-13,NA,NA,NA,NA,NA,NA,Ventral view of the cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,posterior extremity of suture between palatines,Borges et al 2017,14,NA,NA,NA,NA,NA,NA,Ventral view of the cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,anteriormost point of intersection between jugal and squamosal,Borges et al 2017,15-16,NA,NA,NA,NA,NA,NA,Ventral view of the cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,posteriormost point of pterygoid,Borges et al 2017,17-18,NA,NA,NA,NA,NA,NA,Ventral view of the cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,anterior extremity of tympanic bulla,Borges et al 2017,19-20,NA,NA,NA,NA,NA,NA,Ventral view of the cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,anterior tip of external auditory meatus,Borges et al 2017,21-22,NA,NA,NA,NA,NA,NA,Ventral view of the cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,posterior extremity of mastoid apophysis,Borges et al 2017,23-24,NA,NA,NA,NA,NA,NA,Ventral view of the cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,posterior extremity of paraoccipital apophysis,Borges et al 2017,25-26,NA,NA,NA,NA,NA,NA,Ventral view of the cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,anteriormost point of foramen magnum,Borges et al 2017,27,NA,NA,NA,NA,NA,NA,Ventral view of the cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,posterior extremity of occipital condyle in foramen magnum,Borges et al 2017,28-29,NA,NA,NA,NA,NA,NA,Ventral view of the cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,posteriormost point of foramen magnum along midsagittal plane.,Borges et al 2017,30,NA,NA,NA,NA,NA,NA,Ventral view of the cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,anteriormost point of premaxilla,Borges et al 2017,1,NA,NA,NA,NA,NA,NA,Lateral view of the cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,posteriormost point of incisor alveolus,Borges et al 2017,2,NA,NA,NA,NA,NA,NA,Lateral view of the cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,inferiormost point of incisor alveolus,Borges et al 2017,3,NA,NA,NA,NA,NA,NA,Lateral view of the cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,anterior tip of nasal,Borges et al 2017,4,NA,NA,NA,NA,NA,NA,Lateral view of the cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,anteriormost point of suture between nasal and premaxilla,Borges et al 2017,5,NA,NA,NA,NA,NA,NA,Lateral view of the cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,"suture between premaxilla, maxilla and frontal in superior zygomatic root",Borges et al 2017,6,NA,NA,NA,NA,NA,NA,Lateral view of the cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,inferiormost point of suture between lacrimal and maxilla,Borges et al 2017,7,NA,NA,NA,NA,NA,NA,Lateral view of the cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,inferiormost point of infraorbital foramen in inferior zygomatic root,Borges et al 2017,8,NA,NA,NA,NA,NA,NA,Lateral view of the cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,inferiormost point of suture between premaxilla and maxilla,Borges et al 2017,9,NA,NA,NA,NA,NA,NA,Lateral view of the cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,anteriormost point of premolar alveolus,Borges et al 2017,10,NA,NA,NA,NA,NA,NA,Lateral view of the cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,extremity of superior jugal process,Borges et al 2017,11,NA,NA,NA,NA,NA,NA,Lateral view of the cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,extremity of inferior jugal process,Borges et al 2017,12,NA,NA,NA,NA,NA,NA,Lateral view of the cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,tip of posterior jugal process,Borges et al 2017,13,NA,NA,NA,NA,NA,NA,Lateral view of the cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,medial point of suture between parietal and squamosal,Borges et al 2017,14,NA,NA,NA,NA,NA,NA,Lateral view of the cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,superior extremity of lambdoidal crest,Borges et al 2017,15,NA,NA,NA,NA,NA,NA,Lateral view of the cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,posterior extremity of postglenoid fossa,Borges et al 2017,16,NA,NA,NA,NA,NA,NA,Lateral view of the cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,inferior extremity in suture between pterygoid and tympanic bulla,Borges et al 2017,17,NA,NA,NA,NA,NA,NA,Lateral view of the cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,inferior extremity of mastoid apophysis,Borges et al 2017,18,NA,NA,NA,NA,NA,NA,Lateral view of the cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,anteriormost margin of paraoccipital apophysis,Borges et al 2017,19,NA,NA,NA,NA,NA,NA,Lateral view of the cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,posteriormost margin of paraoccipital apophysis,Borges et al 2017,20,NA,NA,NA,NA,NA,NA,Lateral view of the cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,posterior extremity of intersection between occipital and tympanic bulla.,Borges et al 2017,21,NA,NA,NA,NA,NA,NA,Lateral view of the cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,upper extremity of anterior border of incisor alveolus,Borges et al 2017,1,NA,NA,NA,NA,NA,NA,Lateral view of the mandible,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,extremity of diastema invagination,Borges et al 2017,2,NA,NA,NA,NA,NA,NA,Lateral view of the mandible,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,anterior edge of premolar alveolus,Borges et al 2017,3,NA,NA,NA,NA,NA,NA,Lateral view of the mandible,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,intersection between molar alveolus and coronoid process,Borges et al 2017,4,NA,NA,NA,NA,NA,NA,Lateral view of the mandible,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,tip of coronoid process,Borges et al 2017,5,NA,NA,NA,NA,NA,NA,Lateral view of the mandible,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,maximum of curvature between coronoid and condylar processes,Borges et al 2017,6,NA,NA,NA,NA,NA,NA,Lateral view of the mandible,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,anterior edge of articular surface of condylar process,Borges et al 2017,7,NA,NA,NA,NA,NA,NA,Lateral view of the mandible,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,tip of postcondyloid process,Borges et al 2017,8,NA,NA,NA,NA,NA,NA,Lateral view of the mandible,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,maximum curvature between condylar and angular processes,Borges et al 2017,9,NA,NA,NA,NA,NA,NA,Lateral view of the mandible,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,tip of angular process,Borges et al 2017,10,NA,NA,NA,NA,NA,NA,Lateral view of the mandible,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,intersection between mandibular body and masseteric crest,Borges et al 2017,11,NA,NA,NA,NA,NA,NA,Lateral view of the mandible,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,posterior extremity of mandibular symphysis,Borges et al 2017,12,NA,NA,NA,NA,NA,NA,Lateral view of the mandible,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,posterior extremity border of incisor alveolus.,Borges et al 2017,13,NA,NA,NA,NA,NA,NA,Lateral view of the mandible,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Humeral Length,HL,from the proximal point of the articular humeral head to the distal mid-point of the trochlea,Candela and Picasso 2008,NA,NA,NA,NA,NA,NA,NA,NA,forelimb,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Humeral Maximum Length,HML,from humeral head to distal trochlea,Candela and Picasso 2008,NA,NA,NA,NA,NA,NA,NA,NA,forelimb,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Deltopectoral Crest Length of the Humerus,DLH,"from the proximal point of the articular head to the distal end of the deltopectoral crest (Elisamburu and Vizca ́ıno, 2004)",Candela and Picasso 2008,NA,NA,NA,NA,NA,NA,NA,NA,forelimb,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Transverse Diameter of the Humerus,TDH,from the medial edge of the shaft to the lateral edge (mid-shaft was located measuring half the length of the humerus),Candela and Picasso 2008,NA,NA,NA,NA,NA,NA,NA,NA,forelimb,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Anteroposterior Diameter of the Humerus,APDH,from the anterior edge of the shaft to the posterior edge (mid-shaft was located measuring half the length of the humerus),Candela and Picasso 2008,NA,NA,NA,NA,NA,NA,NA,NA,forelimb,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Transverse Width of the Humerus,TWH,from the medial and lateral epicondyles across the epicondyles,Candela and Picasso 2008,NA,NA,NA,NA,NA,NA,NA,NA,forelimb,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Humeral Head Length,HHL,the anteroposterior diameter of the head. Anterior edge of the articular surface to the posterior edge,Candela and Picasso 2008,NA,NA,NA,NA,NA,NA,NA,NA,forelimb,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Humeral Head Width,HHW,"the medial edge of the articular surface to the lateral edge, representing the mediolateral diameter of the head",Candela and Picasso 2008,NA,NA,NA,NA,NA,NA,NA,NA,forelimb,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Humeral Distal Articular Surface Width,HDASW,the medial edge of the trochlea to the lateral edge of the capitulum,Candela and Picasso 2008,NA,NA,NA,NA,NA,NA,NA,NA,forelimb,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Trochlea Depth,TD,from the anterior to the posterior edge of the trochlea (in distal view) (Not on the figure),Candela and Picasso 2008,NA,NA,NA,NA,NA,NA,NA,NA,forelimb,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Capitulum Depth,CD,from the anterior to the posterior edge of the articular surface at the capitulum (in distal view) (Not on the figure),Candela and Picasso 2008,NA,NA,NA,NA,NA,NA,NA,NA,forelimb,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ulna Length,UL,the proximal edge of the olecranon process to the distal edge of the styloid process,Candela and Picasso 2008,NA,NA,NA,NA,NA,NA,NA,NA,forelimb,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Olecranon-proximal Trochlea notch Length,OTL,from the tip of the olecranon process to the center of the trochlear notch,Candela and Picasso 2008,NA,NA,NA,NA,NA,NA,NA,NA,forelimb,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Transverse Diameter of the Ulna,TDU,the transverse width of the ulna at the diaphyseal mid-point,Candela and Picasso 2008,NA,NA,NA,NA,NA,NA,NA,NA,forelimb,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ulnar Olecranon Process Length,UOPL,the proximal edge of the olecranon process to the proximal edge of the trochlea notch,Candela and Picasso 2008,NA,NA,NA,NA,NA,NA,NA,NA,forelimb,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ulnar Trochlea Notch length,UTNL,the proximal edge of the trochlea notch to the distal edge (coronoid process),Candela and Picasso 2008,NA,NA,NA,NA,NA,NA,NA,NA,forelimb,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ulnar Trochlear Notch Width,UTNW,from the medial to the lateral edge of the trochlear notch taken in the more distal end.,Candela and Picasso 2008,NA,NA,NA,NA,NA,NA,NA,NA,forelimb,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Olecranon Coronoid Process,OCP,from the tip of the olecranon process to the coronoid process,Candela and Picasso 2008,NA,NA,NA,NA,NA,NA,NA,NA,forelimb,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Radius Length,RL,from the proximal edge of the radial head to the distal edge of the styloid process (Not on the figure),Candela and Picasso 2008,NA,NA,NA,NA,NA,NA,NA,NA,forelimb,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Radial Head Width,RHW,from the medial edge of the head to the lateral edge (from a proximal view) (Not on the figure),Candela and Picasso 2008,NA,NA,NA,NA,NA,NA,NA,NA,forelimb,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Radial Head Length,RHL,from the anterior edge of head to posterior edge (from a proximal view) (Not on the figure),Candela and Picasso 2008,NA,NA,NA,NA,NA,NA,NA,NA,forelimb,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Femoral Functional Length,FFL,from the proximal femoral head to the distal end of the condyles,Candela and Picasso 2008,NA,NA,NA,NA,NA,NA,NA,NA,hindlimb,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Femur Length,FL,from the proximal edge of the greater trochanter to the distal edge of the condyle,Candela and Picasso 2008,NA,NA,NA,NA,NA,NA,NA,NA,hindlimb,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Transverse Diameter of the mid-shaft of the Femur,TDF,from the medial to the lateral edge at the midshaft level,Candela and Picasso 2008,NA,NA,NA,NA,NA,NA,NA,NA,hindlimb,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Anteroposterior Diameter of the mid-shaft of the Femur,APDF,from the anterior to the posterior edge at the midshaft level (Not on the figure),Candela and Picasso 2008,NA,NA,NA,NA,NA,NA,NA,NA,hindlimb,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Femoral Head Length,FHL,from the anterior edge of the femoral head to the posterior edge,Candela and Picasso 2008,NA,NA,NA,NA,NA,NA,NA,NA,hindlimb,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Femoral Head Width,FHW,from the medial edge of the femoral head to the lateral edge,Candela and Picasso 2008,NA,NA,NA,NA,NA,NA,NA,NA,hindlimb,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Femoral Distal End Width,FDEW,from the medial edge of the medial condyle to the lateral edge of the lateral condyle (taken at more salient points),Candela and Picasso 2008,NA,NA,NA,NA,NA,NA,NA,NA,hindlimb,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Femoral Distal Depth,FDD,from the anterior point of the patellar ridge to the more posterior edge of the medial condyle (from a distal view),Candela and Picasso 2008,NA,NA,NA,NA,NA,NA,NA,NA,hindlimb,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Femoral Medial Condyle Width,FMCW,from the medial edge to the lateral edge,Candela and Picasso 2008,NA,NA,NA,NA,NA,NA,NA,NA,hindlimb,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Femoral Lateral Condyle Width,FLCW,from the medial edge to the lateral edge,Candela and Picasso 2008,NA,NA,NA,NA,NA,NA,NA,NA,hindlimb,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tibial Length,TL,from the proximal end of the shaft to the distal edge of the medial malleolus,Candela and Picasso 2008,NA,NA,NA,NA,NA,NA,NA,NA,hindlimb,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tibial Crest Length,TCL,from the proximal articular surface to the distal end of the tibial crest (from a lateral view),Candela and Picasso 2008,NA,NA,NA,NA,NA,NA,NA,NA,hindlimb,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Transverse Diameter of the mid-shaft of the Tibia,TDT,from the medial edge of the mid-shaft to the lateral edge (Not on the figure),Candela and Picasso 2008,NA,NA,NA,NA,NA,NA,NA,NA,hindlimb,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tibial Proximal End Width,TPEW,from the medial edge of the medial condyle to the lateral edge of the lateral condyl,Candela and Picasso 2008,NA,NA,NA,NA,NA,NA,NA,NA,hindlimb,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tibial Proximal End Length,TPEL,from the anterior edge of the tibial tuberosity to the most posterior edge of the tibial plateau,Candela and Picasso 2008,NA,NA,NA,NA,NA,NA,NA,NA,hindlimb,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tibial Distal End Width,TDEW,from the medial edge of the medial malleolus to the lateral edge of the distal fibular facet (Not on the figure),Candela and Picasso 2008,NA,NA,NA,NA,NA,NA,NA,NA,hindlimb,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Astragalar Width,AW,from the medial to the lateral edge,Candela and Picasso 2008,NA,NA,NA,NA,NA,NA,NA,NA,hindlimb,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Total Astragalar Length,TAL,taken from the more proximal end to the navicular facet of the astraglar head to a more distal point of astragalar trochlea,Candela and Picasso 2008,NA,NA,NA,NA,NA,NA,NA,NA,hindlimb,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Astraglar Body Length,ABL,from the proximal to the distal end of the astragalar trochlea,Candela and Picasso 2008,NA,NA,NA,NA,NA,NA,NA,NA,hindlimb,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Dorsiplantar Navicular Facet Length,DNFL,from the dorsal edge of the astragalar head to the ventral (plantar) edge (Not on the figure),Candela and Picasso 2008,NA,NA,NA,NA,NA,NA,NA,NA,hindlimb,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lateromedial Navicular Facet Length,LNFL,from the lateral edge of the astragalar head to the medial edge,Candela and Picasso 2008,NA,NA,NA,NA,NA,NA,NA,NA,hindlimb,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Calcaneal Length,CL,from the proximal edge of the tuber calcanei to the distal edge of the cuboid facet,Candela and Picasso 2008,NA,NA,NA,NA,NA,NA,NA,NA,hindlimb,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Calcaneal Tuber-ectal facet Length,CTEL,from the proximal edge of the tuber calcanei to the distal edge of the ectal facet,Candela and Picasso 2008,NA,NA,NA,NA,NA,NA,NA,NA,hindlimb,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Post-articular Calcaneal Length,PoCL,from the proximal edge of the tuber calcanei to the proximal edge of the sustentacular facet,Candela and Picasso 2008,NA,NA,NA,NA,NA,NA,NA,NA,hindlimb,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pre articular Calcaneal Length,PreCL,from the distal edge of the sustentacular facet to the cuboid facet,Candela and Picasso 2008,NA,NA,NA,NA,NA,NA,NA,NA,hindlimb,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most distal point of the lateral lip of the astragalar trochlea,Candela et al 2017,1,tarsal-metatarsal complex,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most distal point of the medial lip of the astragalar trochlea,Candela et al 2017,2,tarsal-metatarsal complex,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most lateral contact point between the astragalus and the navicular,Candela et al 2017,3,tarsal-metatarsal complex,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most medial contact point between the astragalus and the navicular,Candela et al 2017,4,tarsal-metatarsal complex,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most lateral contact point between the calcaneus and the cuboid,Candela et al 2017,5,tarsal-metatarsal complex,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most medial contact point between the calcaneus and the cuboid,Candela et al 2017,6,tarsal-metatarsal complex,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most laterodistal point of the cuboid,Candela et al 2017,7,tarsal-metatarsal complex,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most distal contact point between the cuboid and the ectocuneiform,Candela et al 2017,8,tarsal-metatarsal complex,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,"Contact point between the navicular, the cuboid and the ectocuneiform",Candela et al 2017,9,tarsal-metatarsal complex,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,"Contact point between the navicular, the ectocuneiform and the mesocuneiform",Candela et al 2017,10,tarsal-metatarsal complex,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most medial contact point between the navicular and the mesocuneiform,Candela et al 2017,11,tarsal-metatarsal complex,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most distal contact point between the ectocuneiform and the mesocuneiform,Candela et al 2017,12,tarsal-metatarsal complex,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most mediodistal point of the mesocuneiform,Candela et al 2017,13,tarsal-metatarsal complex,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most laterodistal point of the ectocuneiform,Candela et al 2017,14,tarsal-metatarsal complex,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most mediodistal point of the ectocuneiform,Candela et al 2017,15,tarsal-metatarsal complex,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Candela et al 2017,NA,tarsal-metatarsal complex,linear,NA,NA,NA,NA,NA,NA,navicular body length,linear,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Candela et al 2017,NA,tarsal-metatarsal complex,linear,NA,NA,NA,NA,NA,NA,plantar process of the navicular (length),linear,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Candela et al 2017,NA,tarsal-metatarsal complex,linear,NA,NA,NA,NA,NA,NA,cuboid length,linear,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Candela et al 2017,NA,tarsal-metatarsal complex,linear,NA,NA,NA,NA,NA,NA,third metatarsal length,linear,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Candela et al 2017,NA,tarsal-metatarsal complex,linear,NA,NA,NA,NA,NA,NA,plantar process of the navicular length/navicular body length,index,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Candela et al 2017,NA,tarsal-metatarsal complex,linear,NA,NA,NA,NA,NA,NA,third metatarsal length/ectocuneiform length,index,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,Reference lengths,NA,NA,1,Inter-nasals (anterior end),Naso-occipital length (not used),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,Reference lengths,NA,NA,2,Inter-occipital/inter-temporal crossing sutures,Naso-occipital length (not used),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,Reference lengths,NA,NA,3,Anterior end of the molar row,Diastema’s length,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,Reference lengths,NA,NA,4,Anteroventral end of the magnum foramen,Basilar length,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,Reference lengths,NA,NA,5,Anterior (lingual) end of the superior premaxilla,Basilar length,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,Reference lengths,NA,NA,6,Lower incisors tip at the mean point,Out lever-arm,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,Reference lengths,NA,NA,7,Right end of the mandible,Mandibular width,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,Reference lengths,NA,NA,8,Left end of the mandible,Mandibular width,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,Reference lengths,NA,NA,9,Right end of the zygomatic arch,Zygomatic arch’s width (not used),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,Reference lengths,NA,NA,10,Left end of the zygomatic arch,Zygomatic arch’s width (not used),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,temporo-mandibular joint TMJ (pivot),NA,NA,11,Condylar posterior end,temporo-mandibular joint – cranium centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,temporo-mandibular joint TMJ (pivot),NA,NA,12,Condylar anterior end,temporo-mandibular joint – cranium centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,temporo-mandibular joint TMJ (pivot),NA,NA,13,Condylar medial end,temporo-mandibular joint – cranium centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,temporo-mandibular joint TMJ (pivot),NA,NA,14,Condylar lateral end,temporo-mandibular joint – cranium centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,temporo-mandibular joint TMJ (pivot),NA,NA,15,Condylar dorsal end,temporo-mandibular joint – cranium centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,temporo-mandibular joint TMJ (pivot),NA,NA,16,Condylar ventral end,temporo-mandibular joint – cranium centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,superficial masseter,NA,NA,17,Posterior end (cranium),superficial masseter – cranium centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,superficial masseter,NA,NA,18,Anterior end (cranium),superficial masseter – cranium centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,superficial masseter,NA,NA,19,Medial end (cranium),superficial masseter – cranium centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,superficial masseter,NA,NA,20,Lateral end (cranium),superficial masseter – cranium centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,superficial masseter,NA,NA,21,Dorsal end (cranium),superficial masseter – cranium centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,superficial masseter,NA,NA,22,Ventral end (cranium),superficial masseter – cranium centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,superficial masseter,NA,NA,23,Posterior end (mandible),superficial masseter – mandible centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,superficial masseter,NA,NA,24,Anterior end (mandible),superficial masseter – mandible centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,superficial masseter,NA,NA,25,Medial end (mandible),superficial masseter – mandible centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,superficial masseter,NA,NA,26,Lateral end (mandible),superficial masseter – mandible centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,superficial masseter,NA,NA,27,Dorsal end (mandible),superficial masseter – mandible centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,superficial masseter,NA,NA,28,Ventral end (mandible),deep masseter – cranium centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,deep masseter,NA,NA,29,Posterior end (cranium),deep masseter – cranium centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,deep masseter,NA,NA,30,Anterior end (cranium),deep masseter – cranium centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,deep masseter,NA,NA,31,Medial end (cranium),deep masseter – cranium centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,deep masseter,NA,NA,32,Lateral end (cranium),deep masseter – cranium centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,deep masseter,NA,NA,33,Dorsal end (cranium),deep masseter – cranium centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,deep masseter,NA,NA,34,Ventral end (cranium),deep masseter – cranium centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,deep masseter,NA,NA,35,Posterior end (mandible),deep masseter – mandible centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,deep masseter,NA,NA,36,Anterior end (mandible),deep masseter – mandible centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,deep masseter,NA,NA,37,Medial end (mandible),deep masseter – mandible centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,deep masseter,NA,NA,38,Lateral end (mandible),deep masseter – mandible centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,deep masseter,NA,NA,39,Dorsal end (mandible),deep masseter – mandible centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,deep masseter,NA,NA,40,Ventral end(mandible),deep masseter – mandible centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,posterior extension of the masseter,NA,NA,41,Posterior end (cranium),posterior extension of the masseter – cranium centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,posterior extension of the masseter,NA,NA,42,Anterior end (cranium),posterior extension of the masseter – cranium centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,posterior extension of the masseter,NA,NA,43,Medial end (cranium),posterior extension of the masseter – cranium centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,posterior extension of the masseter,NA,NA,44,Lateral end (cranium),posterior extension of the masseter – cranium centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,posterior extension of the masseter,NA,NA,45,Dorsal end (cranium),posterior extension of the masseter – cranium centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,posterior extension of the masseter,NA,NA,46,Ventral end (cranium),posterior extension of the masseter – cranium centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,posterior extension of the masseter,NA,NA,47,Posterior end (mandible),posterior extension of the masseter –mandible entroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,posterior extension of the masseter,NA,NA,48,Anterior end (mandible),posterior extension of the masseter –mandible entroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,posterior extension of the masseter,NA,NA,49,Medial end (mandible),posterior extension of the masseter –mandible entroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,posterior extension of the masseter,NA,NA,50,Lateral end (mandible),posterior extension of the masseter –mandible entroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,posterior extension of the masseter,NA,NA,51,Dorsal end (mandible),posterior extension of the masseter –mandible entroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,posterior extension of the masseter,NA,NA,52,Ventral end(mandible),posterior extension of the masseter –mandible entroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,infraorbital zygomaticomandibularis,NA,NA,53,Posterior end (cranium),infraorbital zygomaticomandibularis – cranium centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,infraorbital zygomaticomandibularis,NA,NA,54,Anterior end (cranium),infraorbital zygomaticomandibularis – cranium centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,infraorbital zygomaticomandibularis,NA,NA,55,Medial end (cranium),infraorbital zygomaticomandibularis – cranium centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,infraorbital zygomaticomandibularis,NA,NA,56,Lateral end (cranium),infraorbital zygomaticomandibularis – cranium centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,infraorbital zygomaticomandibularis,NA,NA,57,Dorsal end (cranium),infraorbital zygomaticomandibularis – cranium centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,infraorbital zygomaticomandibularis,NA,NA,58,Ventral end (cranium),infraorbital zygomaticomandibularis – mandible centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,infraorbital zygomaticomandibularis,NA,NA,59,Posterior end (mandible),infraorbital zygomaticomandibularis – mandible centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,infraorbital zygomaticomandibularis,NA,NA,60,Anterior end (mandible),infraorbital zygomaticomandibularis – mandible centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,infraorbital zygomaticomandibularis,NA,NA,61,Medial end (mandible),infraorbital zygomaticomandibularis – mandible centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,infraorbital zygomaticomandibularis,NA,NA,62,Lateral end (mandible),infraorbital zygomaticomandibularis – mandible centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,infraorbital zygomaticomandibularis,NA,NA,63,Dorsal end (mandible),infraorbital zygomaticomandibularis – mandible centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,infraorbital zygomaticomandibularis,NA,NA,64,Ventral end(mandible),infraorbital zygomaticomandibularis – mandible centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,zygomaticomandibularis,NA,NA,65,Posterior end (cranium),Zygomaticomandibularis – cranium centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,zygomaticomandibularis,NA,NA,66,Anterior end (cranium),Zygomaticomandibularis – cranium centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,zygomaticomandibularis,NA,NA,67,Medial end (cranium),Zygomaticomandibularis – cranium centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,zygomaticomandibularis,NA,NA,68,Lateral end (cranium),Zygomaticomandibularis – cranium centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,zygomaticomandibularis,NA,NA,69,Dorsal end (cranium),Zygomaticomandibularis – cranium centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,zygomaticomandibularis,NA,NA,70,Ventral end (cranium),Zygomaticomandibularis – cranium centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,zygomaticomandibularis,NA,NA,71,Posterior end (mandible),Zygomaticomandibularis – mandible centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,zygomaticomandibularis,NA,NA,72,Anterior end (mandible),Zygomaticomandibularis – mandible centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,zygomaticomandibularis,NA,NA,73,Medial end (mandible),Zygomaticomandibularis – mandible centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,zygomaticomandibularis,NA,NA,74,Lateral end (mandible),Zygomaticomandibularis – mandible centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,zygomaticomandibularis,NA,NA,75,Dorsal end (mandible),Zygomaticomandibularis – mandible centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,zygomaticomandibularis,NA,NA,76,Ventral end(mandible),Zygomaticomandibularis – mandible centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,temporalis,NA,NA,77,Posterior end (cranium),Temporalis – cranium centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,temporalis,NA,NA,78,Anterior end (cranium),Temporalis – cranium centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,temporalis,NA,NA,79,Medial end (cranium),Temporalis – cranium centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,temporalis,NA,NA,80,Lateral end (cranium),Temporalis – cranium centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,temporalis,NA,NA,81,Dorsal end (cranium),Temporalis – cranium centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,temporalis,NA,NA,82,Ventral end (cranium),Temporalis – cranium centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,temporalis,NA,NA,83,Posterior end (mandible),Temporalis – mandible centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,temporalis,NA,NA,84,Anterior end (mandible),Temporalis – mandible centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,temporalis,NA,NA,85,Medial end (mandible),Temporalis – mandible centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,temporalis,NA,NA,86,Lateral end (mandible),Temporalis – mandible centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,temporalis,NA,NA,87,Dorsal end (mandible),Temporalis – mandible centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,temporalis,NA,NA,88,Ventral end(mandible),Temporalis – mandible centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,pterygoid,NA,NA,89,Posterior end (cranium),Pterygoid – cranium centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,pterygoid,NA,NA,90,Anterior end (cranium),Pterygoid – cranium centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,pterygoid,NA,NA,91,Medial end (cranium),Pterygoid – cranium centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,pterygoid,NA,NA,92,Lateral end (cranium),Pterygoid – cranium centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,pterygoid,NA,NA,93,Dorsal end (cranium),Pterygoid – cranium centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,pterygoid,NA,NA,94,Ventral end (cranium),Pterygoid – cranium centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,pterygoid,NA,NA,95,Posterior end (mandible),Pterygoid – mandible centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,pterygoid,NA,NA,96,Anterior end (mandible),Pterygoid – mandible centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,pterygoid,NA,NA,97,Medial end (mandible),Pterygoid – mandible centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,pterygoid,NA,NA,98,Lateral end (mandible),Pterygoid – mandible centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,pterygoid,NA,NA,99,Dorsal end (mandible),Pterygoid – mandible centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,pterygoid,NA,NA,100,Ventral end(mandible),Pterygoid – mandible centroid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+pa_mean,NA,NA,Echeverria et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Procumbency of the upper incisors,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Functional humerus length,HL,NA,Elissamburu and Vizcaino 2004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Distance from the proximal point of the articular head to the distal mid-point of the trochlea.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Deltoid length of the humerus,DLH,NA,Elissamburu and Vizcaino 2004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Distance from the proximal point of the articular head to the distal end of the deltoid tuberosity.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Transverse diameter of the humerus,TDH,NA,Elissamburu and Vizcaino 2004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Transverse width of the humerus at the diaphyseal midpoint.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Anteroposterior diameter of the humerus,APDH,NA,Elissamburu and Vizcaino 2004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Anteroposterior depth of the humerus taken at a distance of 35% of the humeral length from the distal articular surface (Bicknevicius et al 1993).,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Diameter of the epicondyles,DEH,NA,Elissamburu and Vizcaino 2004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Transverse width of the humerus across the epicondyles.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Total ulna length,UL,NA,Elissamburu and Vizcaino 2004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Distance from the tip of the olecranon process to the distal articular surface of the ulna.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Olecranon length,OL,NA,Elissamburu and Vizcaino 2004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Distance along the long axis of the ulna from the tip of the olecranon process to the centre of the trochlear notch.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Functional ulna length,FUL,NA,Elissamburu and Vizcaino 2004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Difference between total ulna length UL and olecranon length OL.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Transverse diameter of the ulna,TDU,NA,Elissamburu and Vizcaino 2004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Transverse width of the ulna at the diaphyseal midpoint.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Functional femur length,FL,NA,Elissamburu and Vizcaino 2004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Distance from the proximal point of the femoral head to the distal point of the femoral condyles.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Distal extension of greater trochanter,DMT,NA,Elissamburu and Vizcaino 2004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Distance from the proximal point of the femoral head to the distal end of the greater trochanter.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Transverse diameter of the femur,TDF,NA,Elissamburu and Vizcaino 2004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Transverse width of the femur at the diaphyseal midpoint.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tibia length,TL,NA,Elissamburu and Vizcaino 2004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Distance between the proximal and distal articular surfaces of the tibia.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Proximal tibia length,PT,NA,Elissamburu and Vizcaino 2004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Distance from the proximal articular surface of the tibia to the distal point of the tibial tuberosity.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Transverse diameter of the tibia,TDT,NA,Elissamburu and Vizcaino 2004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Width of the tibia at the diaphyseal midpoint.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Shoulder moment index,SMI,NA,Elissamburu and Vizcaino 2004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Deltoid length of the humerus divided by the functional length of the humerus (DLH/HL × 100). This index is an indication of the mechanical advantage of the deltoid and major pectoral muscles acting across the shoulder joint.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Humerus robustness index,HRI,NA,Elissamburu and Vizcaino 2004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Transverse diameter of the humerus divided by functional length of the humerus (TDH/HL × 100). It gives an indication of the robustness of the humerus.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Epicondyle index,EI,NA,Elissamburu and Vizcaino 2004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Epicondylar width of the humerus divided by functional length of the humerus (DEH/HL × 100). It gives an indication of the relative width available for the origin of the flexor, pronator, and supinator muscles of the forearm. It is considered a good indicator of fossoriality (Hildebrand, 1985; Lessa & Stein, 1992).",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Index of fossorial ability,IFA,NA,Elissamburu and Vizcaino 2004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Length of the olecranon process divided by the functional ulna length (OL/FUL × 100). This index gives a measure of the mechanical advantage of the triceps and dorso-epitrochlearis muscles in elbow extension. It is also considered a good indicator of fossoriality.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ulna robustness index,URI,NA,Elissamburu and Vizcaino 2004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Transverse diameter of the ulna divided by the functional ulna length (TDU/FUL × 100). It gives an indication of the robustness of the forearm and the relative width available for the insertion of muscles involved with pronation and supination of the forearm and flexion of the manus and digits.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Gluteal index,GI,NA,Elissamburu and Vizcaino 2004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Distal extension of greater trochanter divided by the functional femoral length (DMT/FL × 100). It gives a measure of the mechanical advantage of the gluteus medius muscle and the velocity of femur extension.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Femur robustness index,FRI,NA,Elissamburu and Vizcaino 2004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Transverse diameter of the femur divided by the functional femoral length (TDF/FL × 100). It gives an idea of capacity to support body mass and to withstand vertical forces associated with velocity increase (Biewener & Taylor 1986; Demes et al., 1994).",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tibial spine index,TSI,NA,Elissamburu and Vizcaino 2004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Proximal tibia length divided by the length of the tibia (PT/TL × 100). It gives an indication of strength of the leg and the relative width available for the insertion site of the gracilis, semitendinosus and semimembranosus muscles and the foot flexors. It is important in the flexion of the leg during the first phase of the gait. Proximal insertion is related to greater speed during the initial propulsor movement (Elftman, 1929).",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tibia robustness index,TRI,NA,Elissamburu and Vizcaino 2004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Transverse diameter of the tibia divided by the tibial length (TDT/TL × 100). It gives an indication of the strength of the leg and the relative width available for the origins of the muscles acting across the ankle.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most antero-dorsal point of the mandibular symphysis that meets the posterior part of the alveolar margin of the incisor,Gomes Rodrigues et al 2016,60,NA,NA,NA,NA,NA,NA,NA,mandible,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Point of maximum of concavity between the alveolus of the incisor and the tooth row,Gomes Rodrigues et al 2016,61 and 70,NA,NA,NA,NA,NA,NA,NA,mandible,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most anterior point of the alveolar margin of the tooth row,Gomes Rodrigues et al 2016,62 and 71,NA,NA,NA,NA,NA,NA,NA,mandible,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most posterior point of the alveolar margin of the tooth row,Gomes Rodrigues et al 2016,63 and 72,NA,NA,NA,NA,NA,NA,NA,mandible,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Tip of the coronoid process,Gomes Rodrigues et al 2016,64 and 73,NA,NA,NA,NA,NA,NA,NA,mandible,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most anterior point of the edge of the articular surface condyle,Gomes Rodrigues et al 2016,65 and 74,NA,NA,NA,NA,NA,NA,NA,mandible,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most dorsal point of the edge of the articular surface condyle,Gomes Rodrigues et al 2016,66 and 75,NA,NA,NA,NA,NA,NA,NA,mandible,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most posterior point of the edge of the articular surface condyle,Gomes Rodrigues et al 2016,67 and 76,NA,NA,NA,NA,NA,NA,NA,mandible,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Tip of the angular process,Gomes Rodrigues et al 2016,68 and 77,NA,NA,NA,NA,NA,NA,NA,mandible,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most anterior point of the angular process,Gomes Rodrigues et al 2016,69 and 78,NA,NA,NA,NA,NA,NA,NA,mandible,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most antero-dorsal point of the premaxillar suture,Gomes Rodrigues et al 2016,1,NA,NA,NA,NA,NA,NA,NA,cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most antero-lateral point of the premaxillar/nasal suture,Gomes Rodrigues et al 2016,2 and 16,NA,NA,NA,NA,NA,NA,NA,cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most antero-dorsal point of the nasal suture,Gomes Rodrigues et al 2016,3,NA,NA,NA,NA,NA,NA,NA,cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,"Intersection between frontal, premaxillar, and nasal sutures",Gomes Rodrigues et al 2016,4 and 17,NA,NA,NA,NA,NA,NA,NA,cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,"Intersection between frontal, premaxillar, and maxillar sutures",Gomes Rodrigues et al 2016,5 and 18,NA,NA,NA,NA,NA,NA,NA,cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Intersection between inter-nasal and inter-frontal sutures,Gomes Rodrigues et al 2016,6,NA,NA,NA,NA,NA,NA,NA,cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most dorsal point of the jugal/maxilla suture,Gomes Rodrigues et al 2016,7 and 19,NA,NA,NA,NA,NA,NA,NA,cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most dorsal point of the jugal/squamosal suture,Gomes Rodrigues et al 2016,8 and 20,NA,NA,NA,NA,NA,NA,NA,cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,"Intersection between the frontal, squamosal, and parietal",Gomes Rodrigues et al 2016,9 and 21,NA,NA,NA,NA,NA,NA,NA,cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most posterior point of the zygomatic arch,Gomes Rodrigues et al 2016,10 and 22,NA,NA,NA,NA,NA,NA,NA,cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Intersection between inter-parietal and inter-frontal sutures,Gomes Rodrigues et al 2016,11,NA,NA,NA,NA,NA,NA,NA,cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most anterior point of the external auditory meatus,Gomes Rodrigues et al 2016,12 and 23,NA,NA,NA,NA,NA,NA,NA,cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most posterior point of the external auditory meatus,Gomes Rodrigues et al 2016,13 and 24,NA,NA,NA,NA,NA,NA,NA,cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,"Intersection between the parietal, squamosal, and supraoccipital sutures",Gomes Rodrigues et al 2016,14 and 25,NA,NA,NA,NA,NA,NA,NA,cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most distal point of the supra-occipal,Gomes Rodrigues et al 2016,15,NA,NA,NA,NA,NA,NA,NA,cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most posterior point of the alveolar margin of the incisors,Gomes Rodrigues et al 2016,26 and 45,NA,NA,NA,NA,NA,NA,NA,cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most anterior point of the incisive foramen,Gomes Rodrigues et al 2016,27 and 46,NA,NA,NA,NA,NA,NA,NA,cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most posterior point of the incisive foramen,Gomes Rodrigues et al 2016,28 and 47,NA,NA,NA,NA,NA,NA,NA,cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most ventral point of the premaxilla/maxilla suture,Gomes Rodrigues et al 2016,29 and 48,NA,NA,NA,NA,NA,NA,NA,cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most anterior point of the alveolar margin of the tooth row,Gomes Rodrigues et al 2016,30 and 49,NA,NA,NA,NA,NA,NA,NA,cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most posterior point of the alveolar margin of the tooth row,Gomes Rodrigues et al 2016,31 and 50,NA,NA,NA,NA,NA,NA,NA,cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Point of maximum of concavity on the distal edge of the palatine,Gomes Rodrigues et al 2016,32,NA,NA,NA,NA,NA,NA,NA,cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most ventral point of the jugal/maxilla suture,Gomes Rodrigues et al 2016,33 and 51,NA,NA,NA,NA,NA,NA,NA,cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most ventral point of the jugal/squamosal suture,Gomes Rodrigues et al 2016,34 and 52,NA,NA,NA,NA,NA,NA,NA,cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most anterior point of the squamosal/alisphenoid suture,Gomes Rodrigues et al 2016,35 and 53,NA,NA,NA,NA,NA,NA,NA,cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Foramen ovale,Gomes Rodrigues et al 2016,36 and 54,NA,NA,NA,NA,NA,NA,NA,cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most posterior point of the pterygoid process,Gomes Rodrigues et al 2016,37 and 55,NA,NA,NA,NA,NA,NA,NA,cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Intersection between inter-basioccipital and inter-basisphenoid sutures,Gomes Rodrigues et al 2016,38,NA,NA,NA,NA,NA,NA,NA,cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Intersection between the basioccipital/basisphenoid suture and the auditory bulla,Gomes Rodrigues et al 2016,39 and 56,NA,NA,NA,NA,NA,NA,NA,cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Paraoccipital process,Gomes Rodrigues et al 2016,40 and 57,NA,NA,NA,NA,NA,NA,NA,cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most anterior point of the occipital condyle,Gomes Rodrigues et al 2016,41 and 58,NA,NA,NA,NA,NA,NA,NA,cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most lateral point of the occipital condyle,Gomes Rodrigues et al 2016,42 and 59,NA,NA,NA,NA,NA,NA,NA,cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most antero-ventral point of the foramen magnum,Gomes Rodrigues et al 2016,43,NA,NA,NA,NA,NA,NA,NA,cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most postero-dorsal point of the foramen magnum,Gomes Rodrigues et al 2016,44,NA,NA,NA,NA,NA,NA,NA,cranium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most antero-ventral point of the mandibular symphysis that meets the anterior part of the alveolar margin of the incisor,Hautier et al 2012,1,mandible,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most antero-dorsal point of the mandibular symphysis that meets the posterior part of the alveolar margin of the incisor,Hautier et al 2012,2,mandible,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Point of maximum of concavity between the alveolus of the incisor and the tooth row,Hautier et al 2012,3 and 14,mandible,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most anterior point of the alveolar margin of the tooth row,Hautier et al 2012,4 and 15,mandible,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most posterior point of the alveolar margin of the tooth row,Hautier et al 2012,5 and 16,mandible,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Tip of the coronoid process,Hautier et al 2012,6 and 17,mandible,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most anterior point of the edge of the articular surface of the condyle,Hautier et al 2012,7 and 18,mandible,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most dorsal point of the edge of the articular surface of the condyle,Hautier et al 2012,8 and 19,mandible,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most posterior point of the edge of the articular surface of the condyle,Hautier et al 2012,9 and 20,mandible,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Point at the maximum of concavity between the condyloid and the angular,Hautier et al 2012,10 and 21,mandible,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Tip of the angular process,Hautier et al 2012,11 and 22,mandible,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Point of maximum of concavity of the ventral margin of the mandible,Hautier et al 2012,12 and 23,mandible,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Point of maximum of convexity of the antero-ventral part of the dentary,Hautier et al 2012,13,mandible,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most antero-dorsal point of the premaxilla suture,Hautier et al 2012,1,cranium,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most antero-dorsal point of the nasal suture,Hautier et al 2012,2,cranium,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most antero-lateral point of the premaxilla/nasal suture,Hautier et al 2012,3 and 58,cranium,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,"Intersection between frontal, premaxilla, and maxilla sutures",Hautier et al 2012,4 and 59,cranium,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,"Intersection between frontal, premaxilla, and nasal sutures",Hautier et al 2012,5 and 60,cranium,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Intersection between inter-nasal and inter-frontal sutures,Hautier et al 2012,6,cranium,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,"Interection between the lacrimal, premaxilla, and maxilla suture",Hautier et al 2012,7 and 61,cranium,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most dorsal point of the lacrimal and frontal suture on the orbit,Hautier et al 2012,8 and 62,cranium,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most ventral point of the lacrimal and maxilla suture on the orbit,Hautier et al 2012,9 and 63,cranium,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most dorsal point of the jugal/maxilla suture,Hautier et al 2012,10 and 64,cranium,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most dorsal point of the jugal/squamosal suture,Hautier et al 2012,11 and 65,cranium,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most ventral point of the jugal/squamosal suture,Hautier et al 2012,12 and 47,cranium,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most posterior point of the zygomatic arch,Hautier et al 2012,13 and 48,cranium,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,"Intersection between the frontal, squamosal, and parietal",Hautier et al 2012,14 and 66,cranium,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Intersection between inter-parietal and inter-frontal sutures,Hautier et al 2012,15,cranium,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most anterior point of the external auditory meatus,Hautier et al 2012,16 and 56,cranium,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most posterior point of the external auditory meatus,Hautier et al 2012,17 and 57,cranium,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,"Intersection between the parietal, squamosal, and supraoccipital sutures",Hautier et al 2012,18 and 67,cranium,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Intersection between inter-parietal and supraoccipital,Hautier et al 2012,19,cranium,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most distal point of the supraoccipital,Hautier et al 2012,20,cranium,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most posterior point of the alveolar margin of the incisors,Hautier et al 2012,21 and 40,cranium,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most anterior point of the incisive foramen,Hautier et al 2012,22 and 41,cranium,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most posterior point of the incisive foramen,Hautier et al 2012,23 and 42,cranium,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most ventral point of the premaxilla/maxilla suture,Hautier et al 2012,24 and 43,cranium,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most anterior point of the alveolar margin of the tooth row,Hautier et al 2012,25 and 44,cranium,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most posterior point of the alveolar margin of the tooth row,Hautier et al 2012,26 and 45,cranium,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Intersectionbetween maxilla and palatine sutures,Hautier et al 2012,27,cranium,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Point of maximum of concavity on the distal edge of the palatine,Hautier et al 2012,28,cranium,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most ventral point of the jugal/maxilla suture,Hautier et al 2012,29 and 46,cranium,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most anterior point of the squamosal/alisphenoid suture,Hautier et al 2012,30 and 49,cranium,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Maximum of curvature on the pterygoid process,Hautier et al 2012,31 and 50,cranium,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most posterior point of the pterygoid process,Hautier et al 2012,32 and 51,cranium,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Intersection between inter-basioccipital and inter-basisphenoid sutures,Hautier et al 2012,33,cranium,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Intersection between the basioccipital/basisphenoid suture and the auditory bulla,Hautier et al 2012,34 and 52,cranium,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most anterior point of the foramen lacerum,Hautier et al 2012,35 and 53,cranium,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most anterior point of the occipital condyle,Hautier et al 2012,36 and 54,cranium,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most lateral point of the occipital condyle,Hautier et al 2012,37 and 55,cranium,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most antero-ventral point of the foramen magnum,Hautier et al 2012,38,cranium,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most postero-dorsal point of the foramen magnum,Hautier et al 2012,39,cranium,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most ventral point of the auditory bullae,Hautier et al 2012,68 and 69,cranium,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most anterior point of the glenoid fossa,Hautier et al 2012,70 and 71,cranium,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Most posterior point of the glenoid fossa,Hautier et al 2012,72 and 73,cranium,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,BCL,NA,Mora et al 2003,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"length of basioccipital plus basisphenoid, a conservative measure of size that changes little when other skull characters change",NA,basicranial axis length,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,BAL,NA,Mora et al 2003,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,basilar length,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,DL,NA,Mora et al 2003,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,diastema length,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,RL,NA,Mora et al 2003,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,the length of the tooth-bearing portion of the skull,NA,rostral length,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,RW,NA,Mora et al 2003,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,rostral width,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,OUTL,NA,Mora et al 2003,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,a measure of out-lever arm of jaw adductor muscles,NA,condyle tip of the incisor length,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,INL,NA,Mora et al 2003,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,assessed as sin 70° * zygomatic length/2,NA,in-lever arm of jaw adductor muscles,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,IW,NA,Mora et al 2003,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,incisor width,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,IT,NA,Mora et al 2003,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,incisor thickness,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,ZL,NA,Mora et al 2003,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,ZL/2 = half of zygomatic length,NA,zygomatic length,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,ZW,NA,Mora et al 2003,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,zygomatic width,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,MW,NA,Mora et al 2003,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,mandibular width,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,a,NA,Mora et al 2003,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,upper incisor procumbency,NA,angle of Thomas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Fo,NA,Mora et al 2003,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,masseter out-force,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Fi,NA,Mora et al 2003,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,masseter in-force,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,b,NA,Mora et al 2003,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,angle of masseter line of action with respect to the occlusal plane,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Tip of coracoid process,Morgan 2009,1,scapula,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Ventralmost point on lip of glenoid fossa,Morgan 2009,2,scapula,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Point of maximum curvature along lower scapular neck margin,Morgan 2009,3,scapula,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Caudal angle,Morgan 2009,4,scapula,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Intersection between vertebral border and base of scapular spine,Morgan 2009,5,scapula,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Point of maximum curvature along upper scapular neck margin,Morgan 2009,6,scapula,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Union between spine and blade (point of max. concavity on greater scapular notch),Morgan 2009,7,scapula,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Tip of acromion (cephalic endpoint),Morgan 2009,8,scapula,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Ventral tip of metacromion or ventralmost point along scapular spine tip when no metacromion is evident,Morgan 2009,9,scapula,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,suture between diaphysis andproximal epiphysis on the lateral side,Morgan and Alvarez 2013,1,humerus,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,extreme ventrolateral point of  greater tuberosity,Morgan and Alvarez 2013,2,humerus,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,dorsalmost point of greater tuberosity,Morgan and Alvarez 2013,3,humerus,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,proximal  extremity of humeral head,Morgan and Alvarez 2013,4,humerus,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,dorsalmost point of lesser tuberosity,Morgan and Alvarez 2013,5,humerus,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,suture between diaphysis and proximal epiphysis on the medial side,Morgan and Alvarez 2013,6,humerus,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,most extreme point on medial epicondyle,Morgan and Alvarez 2013,7,humerus,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,dorsomedial extreme of  trochlea,Morgan and Alvarez 2013,8,humerus,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,dorsolateral extreme of capitulum,Morgan and Alvarez 2013,9,humerus,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,most extreme point  on lateral epicondyle,Morgan and Alvarez 2013,10,humerus,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,ventromedial extreme of trochlea,Morgan and Alvarez 2013,11,humerus,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,vent-rolateral extreme of capitulum,Morgan and Alvarez 2013,12,humerus,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,semilandmarks along curvature  of humeral diaphysis,Morgan and Alvarez 2013,13-16,humerus,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,end of deltoid process,Morgan and Alvarez 2013,17,humerus,2D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+relative width at epicondyles,HDEWI,NA,Morgan and Verzi 2006,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,width at epicondyles divided by humeral length,NA,NA,estimator of development of carpal and digital flexor muscles,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+humeral robustness,HWL,NA,Morgan and Verzi 2006,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,anteroposterior diameter at diaphysis divided by humerus length,NA,NA,indicator of general bone resistance,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+relative position of the deltoid process,RDP,NA,Morgan and Verzi 2006,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,humeral head-distal base of deltoid process distance divided by humeral length,NA,NA,estimator of in-lever arm for deltoid and pectoral muscles,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+relative width of distal articular surface,RDSW,NA,Morgan and Verzi 2006,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,distal articular surface width divided by humeral length,NA,NA,estimator of stabilization of the elbow joint,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+relative development of tuberosities,RTD,NA,Morgan and Verzi 2006,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,relative size of tuberosities divided by humeral length,NA,NA,indicator of development of stabilizing shoulder muscles,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+relative length of the trochlea,TLI,NA,Morgan and Verzi 2006,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,trochlear length divided by humeral length,NA,NA,estimator of elbow joint stabilization,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Amc,Concavity of external auditory meatus (maximum distance between anteroexternal margin of external auditory meatus and posteriormost point of concavity),Morgan et al 2017,NA,skull,linear,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"This variable estimates the fit of the mandibular condyle in the postglenoid joint area (Verzi and Olivares, 2006)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Bl,Basilar length,Morgan et al 2017,NA,skull,linear,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Dab,"Anterior depth of auditory bulla (depth of auditory bulla in front of external auditory meatus, from dorsal contact with squamosal-alisphenoid to ventral margin)",Morgan et al 2017,NA,skull,linear,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Estimates the constraint imposed by the bulla on gape (Verzi and Olivares, 2006)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Pc,Width of base of postcondylean process,Morgan et al 2017,NA,mandible,linear,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"This variable estimates the fit of the mandibular condyle in the postglenoid joint area (Verzi and Olivares, 2006)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Pgw,Width of postglenoid fossa (measured at origin of the posterior apophysis of the squamosal),Morgan et al 2017,NA,skull,linear,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"This variable estimates the fit of the mandibular condyle in the postglenoid joint area (Verzi and Olivares, 2006)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Ib,Distance between anterior margin of mandibular foramen (mf) and extreme tip of condyle,Morgan et al 2017,NA,mandible,linear,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Estimates depth of the insertion of the lower incisor (Verzi and Olivares, 2006)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Proc,Procumbency of upper incisors (in degrees),Morgan et al 2017,NA,skull,angle,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Related to angle of attack to soil during tooth-digging (Reig et al. 1965),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,DSN,"Relative depth of great scapular notch (DSN = Dsn/Tls), Dsn, depth of great scapular notch (maximum distance between scapular blade and scapular spine); Tls, total length of scapula (from margin of glenoid fossa to intersection between scapular spine base and vertebral border of scapula)",Morgan et al 2017,NA,postcranium,linear,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Estimates relative development of m. infraspinatus; also related to direction of action lines of trapezius and deltoid muscles (Morgan, 2009a)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Hl,Humeral length,Morgan et al 2017,NA,postcranium,linear,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Hw,anteroposterior diameter at middle of humeral diaphysis,Morgan et al 2017,NA,postcranium,linear,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,HUR,Humeral robusticity (HUR = Hw/Hl),Morgan et al 2017,NA,postcranium,index,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Estimates bone resistance, especially with regards to forces applied on the sagittal plane during scratch-digging (Elissamburu and Vizcaíno, 2004; Hildebrand, 1985)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Ew,Maximum width at humeral epicondyle,Morgan et al 2017,NA,postcranium,linear,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,RWE,Relative width of distal epiphysis at epicondyles (RWE = Ew/Hl),Morgan et al 2017,NA,postcranium,index,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Estimates development of hand flexor muscles (Hildebrand, 1985)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Ol,Olecranon length,Morgan et al 2017,NA,postcranium,linear,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Ul,Ulnar length,Morgan et al 2017,NA,postcranium,linear,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,RDO,Relative development of olecranon (RDO = Ol/Ul),Morgan et al 2017,NA,postcranium,index,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Estimates mechanical advantage of m. triceps brachii (internal lever arm); also estimates available surface for attachment of hand flexor and extensor muscles (Hildebrand, 1985)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,EI,"External index (EI = PET/ET); PET, portion externa thickness [radial enamel (RE) + prismless enamel (PLEX)]; ET, total enamel thickness",Morgan et al 2017,NA,skull,index,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Higher EI increases resistance to abrasion (Boyde and Fortelius, 1986; Rensberger and Koenigswald, 1980), as does a thick PLEX (Flynn et al., 1987)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,HSBi,"Hunter-Schreger band inclination, measured as the angle between the HSB and a line perpendicular to the enamel-dentine junction",Morgan et al 2017,NA,skull,angle,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Increasing inclination reinforces resistance to fracture spread (Koenigswald et al., 1987; Martin, 1999; Pfretzschner, 1988; Rensberger, 1997)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,(1) salt flats and sand dunes or (2) habitats other than salt flats and sand dunes,Ojeda et al 1999,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,habitat_specificity,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,"(1) complex, with several openings or levels or (2) simple, a hole in a rock crevice, or a single opening to a burrow",Ojeda et al 1999,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,burrow_systems,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,relative degree of bullar hypertrophy,Ojeda et al 1999,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,bullar_index,calculated as the ratio of the length of the tympanic bulla to the greatest length of the skull,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,the ratio of the width measured across both lower incisors divided by the length of the incisor,Ojeda et al 1999,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,lower_incisor_index,"the closer a value is to 1.0, the squarer the shape",NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,calculated according to Sperber (1944),Ojeda et al 1999,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,relative_medullary_thickness_rmt,shown to be a good indicator of renal performance and is inversely proportional to body weight,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,osmolarity,Ojeda et al 1999,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,max_urine_concentration,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,based on the preference for: (1) halophytic plants (i.e. chenopodes); (2) seeds; (3) grasses; and (4) fleshy cacti.,Ojeda et al 1999,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,diet,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,(1) shaving leaves or (2) not shaving leaves,Ojeda et al 1999,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,feeding_behavior,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Orientation of the m. masseter posterior,MP,NA,Olivares et al 2004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"on the lateral plane, it was estimated as the angle between the distance ‘middle point of the dorsal border of the jugal fossa – post-condyloid process’ and the occlusal plane.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Orientation of the jugal fossa,JF,NA,Olivares et al 2004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"on the lateral plane, it was estimated as the angle between the dorsal border of the fossa and the occlusal plane. The increase of this angle represents a more suitable orientation of the fossa for the origin of the m. masseter posterior.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Length of the masseteric rostral fossa,RF,NA,Olivares et al 2004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,between the anterior border of the fossa and the anterior border of DP4. It is an estimation of the disposition of the m. masseter medialis pars infraorbitalis. A long fossa indicates a more oblique orientation of the muscle and hence a greater involvement in generating propalinal movement of mandible.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Orientation of the m. masseter lateralis,ML,NA,Olivares et al 2004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"on the transverse craneomandibular cross section of each articulated skull and mandible, it was estimated as an angle assessed trigonometrically on the basis of zygomatic breadth, jaw width and the distance ‘zygomatic arch – masseteric crest’. This angle was calculated as ML = tan arc ZMC/[(JW – ZB)/2]. It was assumed to estimate the degree of in- volvement of the muscle in the medial displacement of the mandible (see Fig. 1 in Greaves, 1980). An angle ≥ 90 ◦ implies no lateromedial force component for the m. masseter lateralis.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Orientation of the m. pterygoideus internus,PI,NA,Olivares et al 2004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"on the horizontal plane, it was assessed as the angle between the line of action, ‘origin (pterygoid fossa) – insertion (pterygoid shelf)’, of the muscle, and the craneomandibu- lar sagittal axis. It was assumed that the more lateromedially oriented the muscle, the more medial movement of the mandible during mastication (Woods & Howland, 1979; Woods & Mckeen, 1989; Vassallo & Verzi, 2001).",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Orientation of the pterygoid fossa,PF,NA,Olivares et al 2004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"on the horizontal plane, it was measured as the angle between the lateral border of the fossa and the craneomandibular sagittal axis. It represents an additional estimation of the line of action of the m. pterygoideus internus.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Orientation of the m. pterygoideus externus,PE,NA,Olivares et al 2004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"on the horizontal plane, it was assessed as the angle between the line of action, ‘origin (pterygoid plate) – insertion (medial surface of the condyle)’, of the muscle, and the craneomandibular sagittal axis. It was assumed that the more lateromedially oriented the muscle, the more medial movement of the mandible during mastication (Woods & Howland, 1979; Woods & Mckeen, 1989).",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Orientation of medial border of the glenoid fossa,GF,NA,Olivares et al 2004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"on the horizontal plane, measured as the angle of this border with respect to the sagittal axis of the skull. It was assumed that the disposition of the medial border of the fossa influences the main movement of the condyle in the fossa during mastication.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Orientation of the enamel band,AEB,NA,Olivares et al 2004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,measured surrounding the anterior lobe of the molars,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Predominant orientation of the whole enamel band,EB,NA,Olivares et al 2004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,obtained as an average between the prevailing orientation of the enamel band in the anterior and the posterior lobes of the molars.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+anteroposterior diameter of the humerus,apdh,NA,Perez et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+diameter of the epicondyles,deh,NA,Perez et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+deltoid length of the humerus,dlh,NA,Perez et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+functional femur length,fl,NA,Perez et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+functional humerus length,hl,NA,Perez et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+functional ulna length,ful,NA,Perez et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+length of the olecranon process,ol,NA,Perez et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+transverse diameter of the femur,tdf,NA,Perez et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Shoulder moment index,SMI,NA,Perez et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,indication of the mechanical advantage of the deltoid and major pectoral muscles acting across the shoulder joint,NA,NA,NA,dlh/hl x 100,NA,NA,NA,NA,NA,NA,NA
+Epicondyle index,EI,NA,Perez et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,indicator of fossoriality,NA,NA,NA,deh/hl x 100,NA,NA,NA,NA,NA,NA,NA
+Humeral robustness index,HWL,NA,Perez et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,indicator of general resistance of the bone,NA,NA,NA,apdh/hl x 100,NA,NA,NA,NA,NA,NA,NA
+Index of fossorial ability,IFA,NA,Perez et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"measure of the mechanical advantage of the triceps and dorsoepitrochlearis muscles in elbow extension, also a good indicator of fossoriality",NA,NA,NA,ol/(ful-ol) x 100,NA,NA,NA,NA,NA,NA,NA
+Femur robustness index,FRI,NA,Perez et al 2017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,capacity for supporting body mass and to withstand the vertical forces associated with speed increase,NA,NA,NA,tdf/fl x 100,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Schleich and Vasallo 2003,NA,cranium,linear,NA,NA,NA,NA,NA,NA,naso-occipital length,NA,NA,anteriormost point on nasals to posteriormost point on occiput,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Schleich and Vasallo 2003,NA,cranium,linear,NA,NA,NA,NA,NA,NA,bullar length,NA,NA,longest axis of bulla,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Schleich and Vasallo 2003,NA,cranium,linear,NA,NA,NA,NA,NA,NA,bullar width,NA,NA,widest axis of bulla,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Schleich and Vasallo 2003,NA,cranium,linear,NA,NA,NA,NA,NA,NA,bullar depth,NA,NA,dorsal surface of bony meatus to ventral bullar surface,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Schleich and Vasallo 2003,NA,cranium,compound,NA,NA,NA,NA,NA,NA,bullar volume,NA,NA,estimated using the formula for an elliptical cone,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,End of medial deltopectoral crest.,Steiner Souza et al 2010,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Dorsal,Humerus,NA,NA,NA,NA,NA
+NA,NA,"End of lateral diaphysis, parallel to landmark 1.",Steiner Souza et al 2010,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Dorsal,Humerus,NA,NA,NA,NA,NA
+NA,NA,Encounter of the lateral crest of the great tuberosity with the deltopectoral crest.,Steiner Souza et al 2010,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Dorsal,Humerus,NA,NA,NA,NA,NA
+NA,NA,"End of the lateral diaphysis, parallel to landmark 3.",Steiner Souza et al 2010,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Dorsal,Humerus,NA,NA,NA,NA,NA
+NA,NA,Meeting of the distal extremity of the great tuberosity with the lateral crest of the great tuberosity.,Steiner Souza et al 2010,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Dorsal,Humerus,NA,NA,NA,NA,NA
+NA,NA,"Groove in the great tuberosity, most lateral part.",Steiner Souza et al 2010,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Dorsal,Humerus,NA,NA,NA,NA,NA
+NA,NA,"Groove in the meeting of the great tuberosity with the condyle, most lateral part.",Steiner Souza et al 2010,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Dorsal,Humerus,NA,NA,NA,NA,NA
+NA,NA,Proximal end of the condyle.,Steiner Souza et al 2010,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Dorsal,Humerus,NA,NA,NA,NA,NA
+NA,NA,Lateral extremity of the condyle.,Steiner Souza et al 2010,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Dorsal,Humerus,NA,NA,NA,NA,NA
+NA,NA,Meeting of the distal part of the condyle with the diaphysis.,Steiner Souza et al 2010,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Dorsal,Humerus,NA,NA,NA,NA,NA
+NA,NA,"Groove between condyle and the great tuberosity, most proximal part.",Steiner Souza et al 2010,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Dorsal,Humerus,NA,NA,NA,NA,NA
+NA,NA,Meeting of the most distal part of the deltopectoral crest and supinatory crest with the diaphysis.,Steiner Souza et al 2010,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Dorsal,Humerus,NA,NA,NA,NA,NA
+NA,NA,"Extremity of the lateral diaphysis, parallel to landmark 12.",Steiner Souza et al 2010,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Dorsal,Humerus,NA,NA,NA,NA,NA
+NA,NA,Lateral extremity of the epicondyle.,Steiner Souza et al 2010,14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Dorsal,Humerus,NA,NA,NA,NA,NA
+NA,NA,Medial extremity of the medial epicondyle.,Steiner Souza et al 2010,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Dorsal,Humerus,NA,NA,NA,NA,NA
+NA,NA,Distal extremity of the ulnar facet.,Steiner Souza et al 2010,16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Dorsal,Humerus,NA,NA,NA,NA,NA
+NA,NA,Proximal extremity of the articulated part of the ulnar facet.,Steiner Souza et al 2010,17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Dorsal,Humerus,NA,NA,NA,NA,NA
+NA,NA,Proximal extremity of the articulated part of the radial facet.,Steiner Souza et al 2010,18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Dorsal,Humerus,NA,NA,NA,NA,NA
+NA,NA,Distal extremity of the radial facet.,Steiner Souza et al 2010,19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Dorsal,Humerus,NA,NA,NA,NA,NA
+NA,NA,Meeting of the distal part of the great tuberosity with the diaphysis.,Steiner Souza et al 2010,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ventral,Humerus,NA,NA,NA,NA,NA
+NA,NA,Proximal extremity of the condyle.,Steiner Souza et al 2010,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ventral,Humerus,NA,NA,NA,NA,NA
+NA,NA,Proximal extremity of the distal process of the great tuberosity.,Steiner Souza et al 2010,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ventral,Humerus,NA,NA,NA,NA,NA
+NA,NA,Meeting of the distal extremity of the small tuberosity with the diaphysis.,Steiner Souza et al 2010,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ventral,Humerus,NA,NA,NA,NA,NA
+NA,NA,Proximal extremity of the encounter of the great tuberosity with the diaphysis.,Steiner Souza et al 2010,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ventral,Humerus,NA,NA,NA,NA,NA
+NA,NA,Distal extremity of the encounter of the great tuberosity with the small tuberosity.,Steiner Souza et al 2010,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ventral,Humerus,NA,NA,NA,NA,NA
+NA,NA,Meeting of the proximal extremity of the intertubercular sulcus with the small tuberosity.,Steiner Souza et al 2010,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ventral,Humerus,NA,NA,NA,NA,NA
+NA,NA,Meeting of the proximal part of the deltopectoral crest with the medial diaphysis.,Steiner Souza et al 2010,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ventral,Humerus,NA,NA,NA,NA,NA
+NA,NA,"Extremity of the lateral diaphysis, parallel to landmark 8.",Steiner Souza et al 2010,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ventral,Humerus,NA,NA,NA,NA,NA
+NA,NA,Medial extremity of the deltopectoral crest.,Steiner Souza et al 2010,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ventral,Humerus,NA,NA,NA,NA,NA
+NA,NA,"Extremity of the lateral diaphysis, parallel to landmark 10.",Steiner Souza et al 2010,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ventral,Humerus,NA,NA,NA,NA,NA
+NA,NA,Meeting of the distal part of deltopectoral crest with the medial diaphysis.,Steiner Souza et al 2010,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ventral,Humerus,NA,NA,NA,NA,NA
+NA,NA,"Lateral extremity of the diaphysis, parallel to landmark 12.",Steiner Souza et al 2010,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ventral,Humerus,NA,NA,NA,NA,NA
+NA,NA,Medial extremity of the medial epicondyle.,Steiner Souza et al 2010,14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ventral,Humerus,NA,NA,NA,NA,NA
+NA,NA,Distal extremity of the ulnar facet.,Steiner Souza et al 2010,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ventral,Humerus,NA,NA,NA,NA,NA
+NA,NA,Proximal extremity of the articular part of the ulnar facet.,Steiner Souza et al 2010,16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ventral,Humerus,NA,NA,NA,NA,NA
+NA,NA,Proximal extremity of the articular part of the radial facet.,Steiner Souza et al 2010,17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ventral,Humerus,NA,NA,NA,NA,NA
+NA,NA,Distal extremity of the radial facet.,Steiner Souza et al 2010,18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ventral,Humerus,NA,NA,NA,NA,NA
+NA,NA,Lateral extremity of the epicondyle.,Steiner Souza et al 2010,19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ventral,Humerus,NA,NA,NA,NA,NA
+NA,NA,Medial–ventral extremity of the deltopectoral crest.,Steiner Souza et al 2010,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Distal-Proximal,Humerus,NA,NA,NA,NA,NA
+NA,NA,Ventral extremity of the ulna facet.,Steiner Souza et al 2010,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Distal-Proximal,Humerus,NA,NA,NA,NA,NA
+NA,NA,Medial extremity of the medial epicondyle.,Steiner Souza et al 2010,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Distal-Proximal,Humerus,NA,NA,NA,NA,NA
+NA,NA,Ventral extremity of the ulnar facet.,Steiner Souza et al 2010,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Distal-Proximal,Humerus,NA,NA,NA,NA,NA
+NA,NA,Ventral extremity of the radial facet.,Steiner Souza et al 2010,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Distal-Proximal,Humerus,NA,NA,NA,NA,NA
+NA,NA,Lateral extremity of the epicondyle (capitulum).,Steiner Souza et al 2010,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Distal-Proximal,Humerus,NA,NA,NA,NA,NA
+NA,NA,Ventral extremity of the radial facet.,Steiner Souza et al 2010,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Distal-Proximal,Humerus,NA,NA,NA,NA,NA
+NA,GSL,NA,Tavares et al 2016a,NA,NA,NA,NA,NA,NA,NA,NA,NA,Greatest skull length,NA,NA,From the anterior extremity of the nasal bones to the posterior extremity of the occiput.,NA,NA,NA,NA,NA,NA,NA,NA,NA,Overall size (dorsal),NA,NA,NA,NA
+NA,LN,NA,Tavares et al 2016a,NA,NA,NA,NA,NA,NA,NA,NA,NA,Length of nasals,NA,NA,From the anterior extremity of nasal bones to the suture between the nasal and the frontal bones.,NA,NA,NA,NA,NA,NA,NA,NA,NA,Orognathofacial complex,NA,NA,NA,NA
+NA,LR,NA,Tavares et al 2016a,NA,NA,NA,NA,NA,NA,NA,NA,NA,Length of rostrum,NA,NA,From the anterior extremity of the nasal bones to the anterior extremity of the orbit.,NA,NA,NA,NA,NA,NA,NA,NA,NA,Orognathofacial complex,NA,NA,NA,NA
+NA,LF,NA,Tavares et al 2016a,NA,NA,NA,NA,NA,NA,NA,NA,NA,Length of frontals,NA,NA,From the suture between nasal and frontal bones to the suture between the frontal and the parietal bones.,NA,NA,NA,NA,NA,NA,NA,NA,NA,Vault/orognathofacial complex,NA,NA,NA,NA
+NA,LPar,NA,Tavares et al 2016a,NA,NA,NA,NA,NA,NA,NA,NA,NA,Length of parietals,NA,NA,From the suture between frontal and parietal bones to the suture between the parietal and the interparietal bones.,NA,NA,NA,NA,NA,NA,NA,NA,NA,Vault,NA,NA,NA,NA
+NA,IOC,NA,Tavares et al 2016a,NA,NA,NA,NA,NA,NA,NA,NA,NA,Interorbital constriction,NA,NA,"Least width on the interorbital region, at the frontal bones.",NA,NA,NA,NA,NA,NA,NA,NA,NA,Vault,NA,NA,NA,NA
+NA,WZ,NA,Tavares et al 2016a,NA,NA,NA,NA,NA,NA,NA,NA,NA,Width of zygomatic arches,NA,NA,"Width between lateral extremities of the zygomatic arches, at the jugal bones.",NA,NA,NA,NA,NA,NA,NA,NA,NA,Orognathofacial complex,NA,NA,NA,NA
+NA,WM,NA,Tavares et al 2016a,NA,NA,NA,NA,NA,NA,NA,NA,NA,Width of mastoids,NA,NA,Major width between mastoid bones.,NA,NA,NA,NA,NA,NA,NA,NA,NA,Base,NA,NA,NA,NA
+NA,BL,NA,Tavares et al 2016a,NA,NA,NA,NA,NA,NA,NA,NA,NA,Basilar length,NA,NA,From the posterior margins of incisive alveolus to the anterior margin of the foramen magnum.,NA,NA,NA,NA,NA,NA,NA,NA,NA,Overall size (ventral),NA,NA,NA,NA
+NA,LD,NA,Tavares et al 2016a,NA,NA,NA,NA,NA,NA,NA,NA,NA,Length of diastema,NA,NA,From the posterior margin of the incisive alveolus to the anterior margin of upper premolar 4 (P4) alveolus.,NA,NA,NA,NA,NA,NA,NA,NA,NA,Orognathofacial complex,NA,NA,NA,NA
+NA,LPal,NA,Tavares et al 2016a,NA,NA,NA,NA,NA,NA,NA,NA,NA,Length of palate,NA,NA,From to the anterior margin of P4 alveolus to the anterior margin of mesopterygoid fossa.,NA,NA,NA,NA,NA,NA,NA,NA,NA,Orognathofacial complex,NA,NA,NA,NA
+NA,PPL,NA,Tavares et al 2016a,NA,NA,NA,NA,NA,NA,NA,NA,NA,Post‐palatal length,NA,NA,From the anterior margin of mesopterygoid fossa to the anterior margin of the foramen magnum.,NA,NA,NA,NA,NA,NA,NA,NA,NA,Base,NA,NA,NA,NA
+NA,LBul,NA,Tavares et al 2016a,NA,NA,NA,NA,NA,NA,NA,NA,NA,Length of bulla,NA,NA,From the stylar process to the posterior extremity of the auditory bulla.,NA,NA,NA,NA,NA,NA,NA,NA,NA,Base,NA,NA,NA,NA
+NA,HB,NA,Tavares et al 2016a,NA,NA,NA,NA,NA,NA,NA,NA,NA,Height of braincase,NA,NA,From the suture between basisphenoid and basioccipital to highest point of the braincase.,NA,NA,NA,NA,NA,NA,NA,NA,NA,Vault/base,NA,NA,NA,NA
+NA,WMax,NA,Tavares et al 2016a,NA,NA,NA,NA,NA,NA,NA,NA,NA,Width of maxillaries on M3,NA,NA,Major width of maxilla between upper molar 2 and upper molar 3.,NA,NA,NA,NA,NA,NA,NA,NA,NA,Orognathofacial complex,NA,NA,NA,NA
+NA,WR,NA,Tavares et al 2016a,NA,NA,NA,NA,NA,NA,NA,NA,NA,Width of rostrum,NA,NA,Width of rostrum at the suture between premaxilla and maxilla.,NA,NA,NA,NA,NA,NA,NA,NA,NA,Orognathofacial complex,NA,NA,NA,NA
+NA,HR,NA,Tavares et al 2016a,NA,NA,NA,NA,NA,NA,NA,NA,NA,Height of rostrum,NA,NA,"Distance between dorsal and ventral surface at the level of premaxilla and nasal bones, respectively.",NA,NA,NA,NA,NA,NA,NA,NA,NA,Orognathofacial complex,NA,NA,NA,NA
+NA,HZP,NA,Tavares et al 2016a,NA,NA,NA,NA,NA,NA,NA,NA,NA,Height of zygomatic plate,NA,NA,"From the ventral extremity of the inferior zygomatic root to the suture between premaxilla, frontal and nasal bones.",NA,NA,NA,NA,NA,NA,NA,NA,NA,Orognathofacial complex,NA,NA,NA,NA
+Greatest Skull Length,GSL,From the anterior margin of the nasals to the posterior margin of the occiput.,Tavares et al 2016b,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Length of Nasals,LN,From the anterior margin of nasals to the suture between the nasals and the frontals.,Tavares et al 2016b,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Length of Rostrum,LR,From the anterior margin of the nasals to the anterior margin of the orbit.,Tavares et al 2016b,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Least Interorbital Constriction,IOC,"Least width on the interorbital constriction, at the frontals.",Tavares et al 2016b,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Width on Zygomatic Arches,WZ,"Major width on the zygomatic arches, at the jugals.",Tavares et al 2016b,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Width on Mastoids,WM,Major width on mastoids.,Tavares et al 2016b,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Basilar Length,BAL,From the posterior margins of incisive teeth to the anterior margin of the foramen magnum.,Tavares et al 2016b,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Length of Incisive Foramen,LIF,"From the anterior margin of the incisive foramen, on the pre-maxillary, to the posterior margin of incisive foramen, on the maxillary.",Tavares et al 2016b,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Length of Diastema,D,From the posterior margin of the incisive teeth to the anterior margin of premolar 4 (P4).,Tavares et al 2016b,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Palatal Length A,PLA,From the posterior margin of incisive tooth to the anterior margin of mesopterygoid fossa.,Tavares et al 2016b,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Palatal Length B,PLB,From to the anterior margin of P4 to the anterior margin of mesopterygoid fossa.,Tavares et al 2016b,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Length of Molar Series,LMS,From to the anterior margin of P4 to the posterior margin of molar 3 (M3).,Tavares et al 2016b,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Post-Palatal Length,PPL,From the anterior margin of mesopterygoid fossa to the anterior margin of the foramen magnum.,Tavares et al 2016b,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Length of Auditory Bulla,LBu,From the stylar process to the posterior extremity of the auditory bulla.,Tavares et al 2016b,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Height of Braincase,HB,From the suture between basisphenoid and basioccipital to highest point (apex) of the braincase.,Tavares et al 2016b,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Width on Maxillary,WMax,Major width of maxillary between M2 and M3.,Tavares et al 2016b,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Width of Rostrum,WR,Width of rostrum at the suture between premaxillary and maxillary.,Tavares et al 2016b,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Depth of Rostrum,DR,"Minimum distance between diastema surface and the dorsum of rostrum, on nasals.",Tavares et al 2016b,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,head and body length,NA,Tavares et al 2018,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,HBL,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,tail length,NA,Tavares et al 2018,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TL,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,ear length,NA,Tavares et al 2018,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ear,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,hind feet length with claws,NA,Tavares et al 2018,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,HF,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,HL,NA,Tavares et al 2019a,NA,NA,NA,NA,NA,NA,NA,NA,Forelimb,NA,NA,NA,From the proximal end of the humeral head to edge of the capitulum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Humeral Length,NA,NA,NA
+NA,DPCL,NA,Tavares et al 2019a,NA,NA,NA,NA,NA,NA,NA,NA,Forelimb,NA,NA,NA,From the proximal point of the articular head to the distal end of the deltopectoral crest,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Deltopectoral Crest Length,NA,NA,NA
+NA,DPCH,NA,Tavares et al 2019a,NA,NA,NA,NA,NA,NA,NA,NA,Forelimb,NA,NA,NA,From the anterior edge of the humerus to the most elevated point of the deltopectoral crest,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Deltopectoral Crest Height,NA,NA,NA
+NA,TWH,NA,Tavares et al 2019a,NA,NA,NA,NA,NA,NA,NA,NA,Forelimb,NA,NA,NA,From the medial epicondyle to the lateral epicondyle,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Transverse Width of the Humerus,NA,NA,NA
+NA,TD,NA,Tavares et al 2019a,NA,NA,NA,NA,NA,NA,NA,NA,Forelimb,NA,NA,NA,From the anterior to the posterior edge of the trochlea (distal view),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Trochlea Depth,NA,NA,NA
+NA,CD,NA,Tavares et al 2019a,NA,NA,NA,NA,NA,NA,NA,NA,Forelimb,NA,NA,NA,From the anterior to the posterior edge of the articular surface at the capitulum (distal view),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Capitulum Depth,NA,NA,NA
+NA,APDH,NA,Tavares et al 2019a,NA,NA,NA,NA,NA,NA,NA,NA,Forelimb,NA,NA,NA,From the anterior edge of the shaft to the posterior edge,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Anteroposterior Diameter of the Humerus,NA,NA,NA
+NA,OPL,NA,Tavares et al 2019a,NA,NA,NA,NA,NA,NA,NA,NA,Forelimb,NA,NA,NA,The proximal edge of the olecranon process to the proximal edge of the trochlear notch,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Olecranon Process Length,NA,NA,NA
+NA,RHW,NA,Tavares et al 2019a,NA,NA,NA,NA,NA,NA,NA,NA,Forelimb,NA,NA,NA,From the medial edge of the head to the lateral edge (proximal view),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Radial Head Width,NA,NA,NA
+NA,SNW,NA,Tavares et al 2019a,NA,NA,NA,NA,NA,NA,NA,NA,Scapula,NA,NA,NA,Craniocaudal distance of the scapula at the notch point,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Scapular Notch Width,NA,NA,NA
+NA,CAW,NA,Tavares et al 2019a,NA,NA,NA,NA,NA,NA,NA,NA,Scapula,NA,NA,NA,"Maximum distance perpendicular to the axis of the spine of the scapula, of the cranial angle to the scapular spine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Scapular Cranial Angle Width,NA,NA,NA
+NA,CPW,NA,Tavares et al 2019a,NA,NA,NA,NA,NA,NA,NA,NA,Scapula,NA,NA,NA,"Maximum distance between each side of the coracoid process, taken in the contact area of the process with the scapula",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Coracoid Process Width,NA,NA,NA
+NA,IFW,NA,Tavares et al 2019a,NA,NA,NA,NA,NA,NA,NA,NA,Scapula,NA,NA,NA,Distance between the caudal angle and the dorsal end of the scapular spine,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Scapular Infraspinatus Fossa Width,NA,NA,NA
+NA,FL,NA,Tavares et al 2019a,NA,NA,NA,NA,NA,NA,NA,NA,Hind limb,NA,NA,NA,From the proximal edge of the greater trochanter to the distal edge of the condyle (posterior view),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Femoral Length,NA,NA,NA
+NA,FEB,NA,Tavares et al 2019a,NA,NA,NA,NA,NA,NA,NA,NA,Hind limb,NA,NA,NA,From the lateral edge of the lateral epicondyle to the medial edge of the medial epicondyle,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Femoral Epicondylar Breadth,NA,NA,NA
+NA,FEH,NA,Tavares et al 2019a,NA,NA,NA,NA,NA,NA,NA,NA,Hind limb,NA,NA,NA,From the anterior edge of the medial epicondyle to the posterior margin of the medial epicondyle,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Femoral Epicondylar Height,NA,NA,NA
+NA,APDF,NA,Tavares et al 2019a,NA,NA,NA,NA,NA,NA,NA,NA,Hind limb,NA,NA,NA,From the anterior to the posterior edge at the third trochanter level,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Antero-posterior Diameter of the Femur,NA,NA,NA
+NA,FHL,NA,Tavares et al 2019a,NA,NA,NA,NA,NA,NA,NA,NA,Hind limb,NA,NA,NA,From the anterior edge of the femoral head to the posterior edge,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Femoral Head Length,NA,NA,NA
+NA,TPEL,NA,Tavares et al 2019a,NA,NA,NA,NA,NA,NA,NA,NA,Hind limb,NA,NA,NA,From the anterior edge of the tibial tuberosity to the most posterior edge of the tibial plateau,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Tibial Proximal End Length,NA,NA,NA
+NA,TPEW,NA,Tavares et al 2019a,NA,NA,NA,NA,NA,NA,NA,NA,Hind limb,NA,NA,NA,From the lateral edge of the lateral condyle to the medial edge of the medial condyle,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Tibial Proximal End Width,NA,NA,NA
+greatest skull length,GSL,NA,Tavares et al 2019b,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+length of nasals,LN,NA,Tavares et al 2019b,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+length of rostrum,LR,NA,Tavares et al 2019b,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+least interorbital constriction,IOC,NA,Tavares et al 2019b,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+width on zygomatic arches,WZ,NA,Tavares et al 2019b,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+width between mastoids,WM,NA,Tavares et al 2019b,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+basilar length,BL,NA,Tavares et al 2019b,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+length of diastema,LD,NA,Tavares et al 2019b,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+post-palatal length,PPL,NA,Tavares et al 2019b,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+length of auditory bulla,LBul,NA,Tavares et al 2019b,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+height of braincase,HB,NA,Tavares et al 2019b,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+width of rostrum,WR,NA,Tavares et al 2019b,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+height of rostrum,HR,NA,Tavares et al 2019b,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+height of zygomatic plate,HZP,NA,Tavares et al 2019b,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Endocranial Volume,NA,NA,Vasallo and Echeverria 2009,NA,NA,NA,NA,NA,NA,cm3,NA,NA,NA,NA,NA,measured with 2mm shot,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Encephalization Quotient,NA,NA,Vasallo and Echeverria 2009,NA,NA,NA,NA,NA,NA,derived metric,NA,NA,NA,NA,NA,calculated following Jerison (1973),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Body Weight,NA,NA,Vasallo and Echeverria 2009,NA,NA,NA,NA,NA,NA,g,NA,NA,NA,NA,NA,from specimen labels,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Naso-occipital length,NA,NA,Vasallo and Echeverria 2009,NA,NA,NA,NA,NA,NA,mm,NA,NA,NA,NA,NA,not mentioned in methods,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Rostral masseteric fossa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,"dorsal to the alveolar sheath of I1, progressively narrow anteriad, shallow, and ending with a pointed outline level with the anterior end of the incisive foramina",0
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Rostral masseteric fossa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,"dorsal to the alveolar sheath of the I1, deep and ending in a curved crest slightly anterior to or level with the premaxillary–maxillary suture",1
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Rostral masseteric fossa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,"with portions dorsal and ventral to the alveolar sheath of I1 present and shallow, the anterior end occupying almost the entire height of the rostrum and limited by a more straight crest located ventrally level with the anterior end of the incisive foramina or anterior to them",2
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Rostral masseteric fossa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,"with portions dorsal and ventral to the alveolar sheath of I1 present and very deep, portion ventral to the I1 extending greatly anterior to the incisive foramina",3
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lateral flange of the canal for infraorbital nerve,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,"present, and with free dorsal margin",0
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lateral flange of the canal for infraorbital nerve,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,present and with dorsal margin in contact with bottom of alveolar sheath of upper incisor,1
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lateral flange of the canal for infraorbital nerve,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,very wide and covering bottom of alveolar sheath of upper incisor laterally and posteriorly,2
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lateral flange of the canal for infraorbital nerve,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,very reduced or absent,3
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Bottom of alveolar sheath of upper incisor,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,"free in the diastema, or in the orbital region",0
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Bottom of alveolar sheath of upper incisor,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,"lodged in a cavity of the maxillary, anterior to alveolar sheath of M1",1
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Bottom of alveolar sheath of upper incisor,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,"lodged in a cavity of the maxillary, lateral to alveolar sheath of M1",2
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incisive foramina,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,"with lateral walls concave and approximately symmetric anterior and posterior to the premaxillary-maxillary suture, suture located near middle of lateral wall of the foramen or more anteriorly",0
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incisive foramina,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,"foramina extended and progressively narrow anterior to the premaxillary-maxillary suture, suture nearer to posterior part of the foramen",1
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Premaxillary-maxillary suture at medial margin of incisive foramen,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,level with its portion lateral to the foramen,0
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Premaxillary-maxillary suture at medial margin of incisive foramen,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,displaced forward,1
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ventral margin of rostrum,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,not widened or only slightly widened but without protuberance at premaxillary-maxillary suture,0
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ventral margin of rostrum,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,widened forming a marked protuberance level with premaxillary-maxillary suture,1
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incisive foramina,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,"wide, at least ¼ of rostrum width (both measured at the premaxillary-maxillary suture",0
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incisive foramina,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,"narrow, less than ¼ of rostrum width",1
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Anterior extension of the maxillary into posterior margin of incisive foramen,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,scarcely developed or absent,0
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Anterior extension of the maxillary into posterior margin of incisive foramen,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,"maxillary extended anteriad, on the same horizontal plane as premaxillary septum, constraining the incisive foramen posteriorly",1
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Anterior extension of the maxillary into posterior margin of incisive foramen,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,"maxillary extended anterodorsally with respect to premaxillary septum, constraining the incisive foramen posteriad",2
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Premaxillary septum,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,with posterior ends of premaxillaries joined medially forming a pointed projection,0
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Premaxillary septum,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,"with posterodorsal ends of premaxillaries divergent, each one forming a lateral apophysis",1
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Antorbital zygomatic ramus,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,"uniform in width in anterior view, without medial edge on its dorsal portion",0
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Antorbital zygomatic ramus,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,with the dorsal portion wider in anterior view because of the presence of a medial edge,1
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Suborbital fossa in jugal bone,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,absent,0
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Suborbital fossa in jugal bone,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,present and well developed,1
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Suborbital fossa in jugal bone,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,reduced,2
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Foramen into nasolacrimal canal,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,"visible laterally, maxillary continuous around foramen",0
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Foramen into nasolacrimal canal,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,"visible laterally, maxillary with a lamina posterior to nasolacrimal canal, divided by suture from the rest of the bone",1
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Foramen into nasolacrimal canal,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,"hidden within sphenopalatine foramen along with posterior lamina of maxillary bone, neither visible in lateral view",2
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Sphenopalatine foramen,NA,NA,NA,NA,NA,NA,NA,NA,NA,13,oblique and extended posteriorly over alveolar sheath of M1 or M1-2,0
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Sphenopalatine foramen,NA,NA,NA,NA,NA,NA,NA,NA,NA,13,"divided by M1 alveolar sheath into vertical portion anterior to M1 alveolar sheath, and posterior portion dorsal to M1 alveolar sheath",1
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Sphenopalatine foramen,NA,NA,NA,NA,NA,NA,NA,NA,NA,13,"vertical in front of M1 alveolar sheath, with or without independent relict posterior to M1",2
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Alveolar sheath of molars,NA,NA,NA,NA,NA,NA,NA,NA,NA,14,not externally visible in the orbital region,0
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Alveolar sheath of molars,NA,NA,NA,NA,NA,NA,NA,NA,NA,14,protruding into the orbital region,1
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Alveolar sheath of M1,NA,NA,NA,NA,NA,NA,NA,NA,NA,15,"not hidden inside sphenopalatine foramen, or only a small section of its dorsal portion hidden inside foramen",0
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Alveolar sheath of M1,NA,NA,NA,NA,NA,NA,NA,NA,NA,15,hidden inside sphenopalatine foramen,1
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,External auditory meatus (EAM),NA,NA,NA,NA,NA,NA,NA,NA,NA,16,"short, moderately protruding with respect to auditory bulla and epitympanic recess (ER)",0
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,External auditory meatus (EAM),NA,NA,NA,NA,NA,NA,NA,NA,NA,16,"protruding, with anterodorsal and anterior margin oriented anteriad, forming a smooth anterior concavity",1
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,External auditory meatus (EAM),NA,NA,NA,NA,NA,NA,NA,NA,NA,16,"forming a protruding tube with its anterior wall moderately to very concave, ER forming a horizontal flat surface",2
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,External auditory meatus (EAM),NA,NA,NA,NA,NA,NA,NA,NA,NA,16,"forming a protruding tube very narrow anteroposteriorly and kidney-shaped in cross section due to marked concavity of its anterior wall, ER dorsal to the EAM, very narrow",3
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Zygomatic portion of squamosal,NA,NA,NA,NA,NA,NA,NA,NA,NA,17,subhorizontal and forming at least the posterior half of paraorbitary process,0
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Zygomatic portion of squamosal,NA,NA,NA,NA,NA,NA,NA,NA,NA,17,"never reaching the end of paraorbitary process, this process formed mostly or exclusively by the jugal",1
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maxillary and alisphenoid in basitemporal region,NA,NA,NA,NA,NA,NA,NA,NA,NA,18,contacting each other or separated by dorsal portion of the lateral palatine plate,0
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maxillary and alisphenoid in basitemporal region,NA,NA,NA,NA,NA,NA,NA,NA,NA,18,"separated by dorsal portion of the lateral palatine plate, which is expanded over both the alveolar sheath of M3 and the alisphenoid",1
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maxillary and alisphenoid in basitemporal region,NA,NA,NA,NA,NA,NA,NA,NA,NA,18,strongly joined through a maxillary apophysis posterolateral to the M3 alveolar sheath,2
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Paroccipital process,NA,NA,NA,NA,NA,NA,NA,NA,NA,19,"oriented ventrally, with its free end separated from the bulla and ventral to the latter (0). Short, more laterally oriented and completely joined to the bulla",1
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Auditory bulla,NA,NA,NA,NA,NA,NA,NA,NA,NA,20,ovoid,0
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Auditory bulla,NA,NA,NA,NA,NA,NA,NA,NA,NA,20,"pyriform, with anterior portion narrow and strongly oblique major axis",1
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Auditory bulla,NA,NA,NA,NA,NA,NA,NA,NA,NA,20,"pyriform, very narrow, with a pit ventrolateral to the EAM",2
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Glenoid fossa,NA,NA,NA,NA,NA,NA,NA,NA,NA,21,"subhorizontal, or slightly ascending posteriorly",0
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Glenoid fossa,NA,NA,NA,NA,NA,NA,NA,NA,NA,21,strongly ascending posteriorly,1
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Origin of masseteric crest of the mandible,NA,NA,NA,NA,NA,NA,NA,NA,NA,22,incorporating the notch for the tendon of M. masseter medialis,0
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Origin of masseteric crest of the mandible,NA,NA,NA,NA,NA,NA,NA,NA,NA,22,posterior to the notch,1
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Masseteric area of the mandible,NA,NA,NA,NA,NA,NA,NA,NA,NA,23,without protuberances corresponding to bottom portion of  alveoli of molars,0
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Masseteric area of the mandible,NA,NA,NA,NA,NA,NA,NA,NA,NA,23,"with a rounded protuberance near origin of masseteric crest, corresponding to the bottom of alveolus of m2",1
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Masseteric area of the mandible,NA,NA,NA,NA,NA,NA,NA,NA,NA,23,"with a protuberance that lacks distinct margins, corresponding to the bottom of alveolus of m2, placed between dorsal and ventral divisions of the masseteric fossa,",2
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Masseteric area of the mandible,NA,NA,NA,NA,NA,NA,NA,NA,NA,23,"with a marked ovoid protrusion corresponding to the bottom of alveolus of m3, between the dorsal and ventral divisions of the masseteric fossa",3
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Masseteric area of the mandible,NA,NA,NA,NA,NA,NA,NA,NA,NA,23,with a scarcely visible protrusion corresponding to the bottom of alveolus of m3 in the dorsal division of the masseteric fossa,4
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Postcondyloid process,NA,NA,NA,NA,NA,NA,NA,NA,NA,24,"developed, with a weak protuberance on its ventral margin or without it",0
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Postcondyloid process,NA,NA,NA,NA,NA,NA,NA,NA,NA,24,very reduced or absent,1
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Postcondyloid process,NA,NA,NA,NA,NA,NA,NA,NA,NA,24,with a strong lateral apophysis on its ventral margin,2
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Dorsal division of masseteric fossa of mandible,NA,NA,NA,NA,NA,NA,NA,NA,NA,25,"subvertical, its lower margin oriented ventrally toward masseteric crest",0
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Dorsal division of masseteric fossa of mandible,NA,NA,NA,NA,NA,NA,NA,NA,NA,25,"more horizontal, its lower margin converging with origin of masseteric crest",1
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Dorsal division of masseteric fossa of mandible,NA,NA,NA,NA,NA,NA,NA,NA,NA,25,visible only in its posterodorsal portion,2
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Chin process,NA,NA,NA,NA,NA,NA,NA,NA,NA,26,"level with dp4 in lateral view, or slightly anterior",0
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Chin process,NA,NA,NA,NA,NA,NA,NA,NA,NA,26,behind the level of dp4,1
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Mandibular diastema,NA,NA,NA,NA,NA,NA,NA,NA,NA,27,without a step anterior to dp4,0
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Mandibular diastema,NA,NA,NA,NA,NA,NA,NA,NA,NA,27,with a step anterior to dp4,1
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Bottom of m1 alveolus,NA,NA,NA,NA,NA,NA,NA,NA,NA,28,"slightly protruding in the mandible, and anterior to origin of masseteric crest",0
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Bottom of m1 alveolus,NA,NA,NA,NA,NA,NA,NA,NA,NA,28,forming a marked protrusion at origin of masseteric crest,1
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Molars,NA,NA,NA,NA,NA,NA,NA,NA,NA,29,with flexi and flexids persistent in adults,0
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Molars,NA,NA,NA,NA,NA,NA,NA,NA,NA,29,only with mesoflexus/id and hypoflexus/id persistent,1
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Molars,NA,NA,NA,NA,NA,NA,NA,NA,NA,29,"with flexi vestigial or absent, and reduced flexids",2
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Molars,NA,NA,NA,NA,NA,NA,NA,NA,NA,29,with flexi/ids vestigial or absent,3
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,DP4-M2,NA,NA,NA,NA,NA,NA,NA,NA,NA,30,with transverse lophs,0
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,DP4-M2,NA,NA,NA,NA,NA,NA,NA,NA,NA,30,"eight shaped, with two transverse lobes separated by the hypoflexus and mesoflexus",1
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,DP4-M2,NA,NA,NA,NA,NA,NA,NA,NA,NA,30,with posterior lobe not labially extended and without flexi,2
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Anterior lobe of DP4-M2,NA,NA,NA,NA,NA,NA,NA,NA,NA,31,not protruding toward labial side,0
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Anterior lobe of DP4-M2,NA,NA,NA,NA,NA,NA,NA,NA,NA,31,moderately protruding toward labial side,1
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Anterior lobe of DP4-M2,NA,NA,NA,NA,NA,NA,NA,NA,NA,31,markedly protruding and transverse,2
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Anterior lobe of DP4-M2,NA,NA,NA,NA,NA,NA,NA,NA,NA,31,markedly protruding and oriented anterolabially,3
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,M3,NA,NA,NA,NA,NA,NA,NA,NA,NA,32,"not reduced to moderately reduced, with morphology similar to remaining molars",0
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,M3,NA,NA,NA,NA,NA,NA,NA,NA,NA,32,"reduced, with occlusal outline subcircular and posterior lobe narrow",1
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,M3,NA,NA,NA,NA,NA,NA,NA,NA,NA,32,"reduced, with posterior or posterolingual face flat and anterior lobe protruding",2
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Occlusal design of Dp4-m2,NA,NA,NA,NA,NA,NA,NA,NA,NA,33,transverse lophids,0
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Occlusal design of Dp4-m2,NA,NA,NA,NA,NA,NA,NA,NA,NA,33,figure eight-shaped,1
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Occlusal design of Dp4-m2,NA,NA,NA,NA,NA,NA,NA,NA,NA,33,subrhombic to crescent-shaped,2
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Occlusal design of Dp4-m2,NA,NA,NA,NA,NA,NA,NA,NA,NA,34,transverse lophids,0
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Occlusal design of Dp4-m2,NA,NA,NA,NA,NA,NA,NA,NA,NA,34,"figure eight-shaped, with two transverse lobes separated by hypoflexid and mesoflexid",1
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Occlusal design of Dp4-m2,NA,NA,NA,NA,NA,NA,NA,NA,NA,34,"slightly oblique rounded lobes, with reduced hypoflexid and mesoflexid",2
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Occlusal design of Dp4-m2,NA,NA,NA,NA,NA,NA,NA,NA,NA,34,subrhombic to crescent-shaped and with a lingual concavity limited by an anterior protrusion,3
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Occlusal design of Dp4-m2,NA,NA,NA,NA,NA,NA,NA,NA,NA,34,subrhombic with a weak labial fold (trace of hypoflexid?),4
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Occlusal design of Dp4-m2,NA,NA,NA,NA,NA,NA,NA,NA,NA,34,semilunar with a weak labial fold,5
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Occlusal design of Dp4-m2,NA,NA,NA,NA,NA,NA,NA,NA,NA,34,subrhombic with weak labial and lingual folds (traces of flexids?) to semilunar and with only a wide lingual concavity,6
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,m3,NA,NA,NA,NA,NA,NA,NA,NA,NA,35,"not reduced or moderately reduced, with morphology similar to that of the remaining molars and implanted dorsolaterally to incisor",0
+NA,NA,NA,Verzi 2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,m3,NA,NA,NA,NA,NA,NA,NA,NA,NA,35,"very reduced, subelliptic to subcircular in cross section, with posterolateral or posterior implantation, dorsal to i1",1
+NA,Amc,NA,Verzi and Olivares 2006,NA,cranium,linear,NA,NA,NA,NA,NA,NA,Concavity of the external auditory meatus (maximum distance between the anteroexternal margin of the external auditory meatus to the most posterior point of the concavity),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Bl,NA,Verzi and Olivares 2006,NA,cranium,linear,NA,NA,NA,NA,NA,NA,Basilar length,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Cl,NA,Verzi and Olivares 2006,NA,mandible,linear,NA,NA,NA,NA,NA,NA,Condyle length (maximum length of the articular surface of the mandibular condyle),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Dab,NA,Verzi and Olivares 2006,NA,cranium,linear,NA,NA,NA,NA,NA,NA,"Anterior depth of the auditory bulla (depth of the auditory bulla in front of the external auditory meatus, from the dorsal contact with the squamosal-alisphenoid to the ventral margin)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Diast,NA,Verzi and Olivares 2006,NA,cranium,linear,NA,NA,NA,NA,NA,NA,Diastema length,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Ib,NA,Verzi and Olivares 2006,NA,mandible,linear,NA,NA,NA,NA,NA,NA,"Insertion depth of the lower incisor (length between the anterior margin of the mandibular foramen, which accompanies the base of the incisor, and the dorsum of the condyle)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Jw,NA,Verzi and Olivares 2006,NA,mandible,linear,NA,NA,NA,NA,NA,NA,Maximum jaw width,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Pc,NA,Verzi and Olivares 2006,NA,mandible,linear,NA,NA,NA,NA,NA,NA,Width of the base of the postcondyloid process,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Pgd,NA,Verzi and Olivares 2006,NA,cranium,linear,NA,NA,NA,NA,NA,NA,Depth of the postglenoid articular region (maximum distance between the postglenoid fossa and the dorsal margin of the external auditory meatus),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Pgw,NA,Verzi and Olivares 2006,NA,cranium,linear,NA,NA,NA,NA,NA,NA,Width of the postglenoid fossa (measured at the origin of the squamosal's posterior apophysis),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Pp,NA,Verzi and Olivares 2006,NA,cranium,linear,NA,NA,NA,NA,NA,NA,Thickness of the paroccipital apophysis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Proc,NA,Verzi and Olivares 2006,NA,cranium,linear,NA,NA,NA,NA,NA,NA,Procumbency of upper incisors (Thomas' angle),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Zw,NA,Verzi and Olivares 2006,NA,cranium,linear,NA,NA,NA,NA,NA,NA,Maximum zygomatic width,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
