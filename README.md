@@ -4,7 +4,7 @@
 # Caviomorph Ecomorphology Resources App
 
 <!-- badges: start -->
-
+[![DOI](https://zenodo.org/badge/226179445.svg)](https://zenodo.org/badge/latestdoi/226179445)
 <!-- badges: end -->
 
 This app accompanies the manuscript “*Patterns in research and
