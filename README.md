@@ -8,7 +8,10 @@
 <!-- badges: end -->
 
 This app accompanies the manuscript “*Patterns in research and
-data-sharing for the study of form and function in caviomorph rodents*”
+data-sharing for the study of form and function in caviomorph rodents*” by Luis D. Verde Arregoitia, Pablo Teta, & Guillermo D’Elía _Journal of Mammalogy_
+
+App by Luis D. Verde Arregoitia
+
 
 ## Run online
 
