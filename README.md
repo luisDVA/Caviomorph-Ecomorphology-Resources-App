@@ -26,3 +26,5 @@ session to download and run the app from [GitHub](https://github.com/):
 ``` r
 shiny::runGitHub("luisDVA/Caviomorph-Ecomorphology-Resources-App")
 ```
+
+####  luisDVA/Caviomorph-Ecomorphology-Resources-App/ is licensed under the MIT License, the underlying data is made available under the Open Data Commons Attribution License (v1.0).
