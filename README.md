@@ -16,7 +16,7 @@ App by Luis D. Verde Arregoitia
 ## Run online
 
 The app is hosted online at
-<https://luisdva.shinyapps.io/caviomorph_ecomorphology_resources/>.
+<https://luisdva.shinyapps.io/caviomorph_ecomorphology_resources_app/>.
 
 ## Download and run
 
